@@ -5,11 +5,11 @@
     "sitemap_static_pages": "founder-story, contact, privacy, terms, dmca",
     "sitemap_lastmod_manual": "2026-02-09",
     "ga4_id": "G-KVYJSX3VW7",
-    "title_part_1": "Buff",
-    "title_part_2": "Streams",
+    "title_part_1": "Sport",
+    "title_part_2": "Surge",
     "custom_js": "",
     "custom_meta_tags": [
-      "<meta name=\"google-site-verification\" content=\"Ru9BSOV_R5DvGmpD_7bvR4Fr0bQYBX4O65-JBLbrNwU\" />"
+      "<meta name=\"google-site-verification\" content=\"\" />"
     ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreamslive.cc/sitemap.xml",
     "domain": "buffstreamslive.cc",
@@ -18,9 +18,9 @@
     "footer_copyright": "© 2026 Buffstreams — Online live sports streaming platform for major leagues, teams, and international tournaments worldwide.",
     "footer_disclaimer": "",
     "target_country": "US",
-    "url_suffix": "-live",
-    "param_live": "live",
-    "param_info": "info"
+    "url_suffix": "-schedule",
+    "param_live": "livestream",
+    "param_info": "information"
   },
   "theme": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
