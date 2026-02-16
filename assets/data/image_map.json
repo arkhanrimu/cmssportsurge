@@ -1272,7 +1272,16 @@
         "Valmiera Glass VIA": "assets/logos/upstreams/valmiera-glass-via.webp",
         "VEF R\u012bga": "assets/logos/upstreams/vef-r\u012bga.webp",
         "Vukovar": "assets/logos/upstreams/vukovar.webp",
-        "Slaven Belupo": "assets/logos/upstreams/slaven-belupo.webp"
+        "Slaven Belupo": "assets/logos/upstreams/slaven-belupo.webp",
+        "Aix Maurienne Savoie Basket": "assets/logos/upstreams/aix-maurienne-savoie-basket.webp",
+        "Chorale Roanne Basket": "assets/logos/upstreams/chorale-roanne-basket.webp",
+        "Orleans Loiret": "assets/logos/upstreams/orleans-loiret.webp",
+        "Antibes Sharks": "assets/logos/upstreams/antibes-sharks.webp",
+        "Vichy Clermont": "assets/logos/upstreams/vichy-clermont.webp",
+        "Hugo Hashimoto": "assets/logos/upstreams/hugo-hashimoto.webp",
+        "Lenn Luemkemann": "assets/logos/upstreams/lenn-luemkemann.webp",
+        "Paris Pouatcha": "assets/logos/upstreams/paris-pouatcha.webp",
+        "Boxiong Zhang": "assets/logos/upstreams/boxiong-zhang.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1439,6 +1448,7 @@
         "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
         "Estonian-Latvian Basketball League": "assets/logos/leagues/estonian-latvian-basketball-league.webp",
-        "Croatia - HNL": "assets/logos/leagues/croatia-hnl.webp"
+        "Croatia - HNL": "assets/logos/leagues/croatia-hnl.webp",
+        "\u00c9lite 2": "assets/logos/leagues/\u00e9lite-2.webp"
     }
 }
