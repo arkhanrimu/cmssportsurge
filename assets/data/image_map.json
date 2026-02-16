@@ -1530,7 +1530,9 @@
         "Jaguares": "assets/logos/streamed/jaguares.webp",
         "Jamestown Jackals": "assets/logos/upstreams/jamestown-jackals.webp",
         "Newfoundland Rogues": "assets/logos/upstreams/newfoundland-rogues.webp",
-        "Sam Bakker": "assets/logos/upstreams/sam-bakker.webp"
+        "Sam Bakker": "assets/logos/upstreams/sam-bakker.webp",
+        "Jessica Pegula": "assets/logos/upstreams/jessica-pegula.webp",
+        "Valeryia Darashuk": "assets/logos/upstreams/valeryia-darashuk.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1713,6 +1715,7 @@
         "Club Friendly Games": "assets/logos/leagues/club-friendly-games.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
-        "MLB": "assets/logos/leagues/mlb.webp"
+        "MLB": "assets/logos/leagues/mlb.webp",
+        "Italy Serie A": "assets/logos/leagues/italy-serie-a.webp"
     }
 }
