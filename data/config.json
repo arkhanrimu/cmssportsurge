@@ -574,31 +574,43 @@
     "hero": [
       {
         "title": "🏀 NBA",
-        "url": "/nba-live/"
+        "url": "/nba-schedule/"
       },
       {
         "title": "🏈 NFL",
-        "url": "/nfl-live/"
+        "url": "/nfl-schedule/"
       },
       {
         "title": "⚾ MLB",
-        "url": "/mlb-live/"
+        "url": "/mlb-schedule/"
       },
       {
         "title": "🏒 NHL",
-        "url": "/nhl-live/"
+        "url": "/nhl-schedule/"
       },
       {
-        "title": "🏆 NCAA",
-        "url": "/ncaa-live/"
+        "title": "🏆 NCAAF",
+        "url": "/cfb-schedule/"
       },
       {
-        "title": "🥊 UFC",
-        "url": "/ufc-live/"
+        "title": "🏆 NCAAB",
+        "url": "/ncaa-schedule/"
       },
       {
-        "title": "⚽ Soccer",
-        "url": "/football-live/"
+        "title": "🏆 F1",
+        "url": "/formula-1-schedule/"
+      },
+      {
+        "title": "🏆 WWE",
+        "url": "/wwe-schedule/"
+      },
+      {
+        "title": "🥊 Boxing",
+        "url": "/boxing-schedule/"
+      },
+      {
+        "title": "🏆 MMA",
+        "url": "/mma-schedule/"
       }
     ],
     "footer_links": [
