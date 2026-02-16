@@ -11,8 +11,8 @@
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"\" />"
     ],
-    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://buffstreamslive.cc/sitemap.xml",
-    "domain": "buffstreamslive.cc",
+    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://sportsurge.fit/sitemap.xml",
+    "domain": "sportsurge.fit",
     "logo_url": "/assets/sportsurge-logo.webp",
     "favicon_url": "/assets/sportsurge-icon.png",
     "footer_copyright": "© 2026 Buffstreams — Online live sports streaming platform for major leagues, teams, and international tournaments worldwide.",
