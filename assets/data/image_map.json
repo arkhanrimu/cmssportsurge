@@ -1192,7 +1192,22 @@
         "First Vienna": "assets/logos/upstreams/first-vienna.webp",
         "St. Polten": "assets/logos/upstreams/st-polten.webp",
         "Bohemians Dublin": "assets/logos/upstreams/bohemians-dublin.webp",
-        "Sligo Rovers": "assets/logos/upstreams/sligo-rovers.webp"
+        "Sligo Rovers": "assets/logos/upstreams/sligo-rovers.webp",
+        "Monaco": "assets/logos/upstreams/monaco.webp",
+        "PSG": "assets/logos/upstreams/psg.webp",
+        "Adam Farag Cao": "assets/logos/upstreams/adam-farag-cao.webp",
+        "Jeffrey Fradkin": "assets/logos/upstreams/jeffrey-fradkin.webp",
+        "Anders Matta": "assets/logos/upstreams/anders-matta.webp",
+        "Volodymyr Gurenko": "assets/logos/upstreams/volodymyr-gurenko.webp",
+        "Vendee Challans": "assets/logos/upstreams/vendee-challans.webp",
+        "Poitiers 86": "assets/logos/upstreams/poitiers-86.webp",
+        "Christopher Papa": "assets/logos/upstreams/christopher-papa.webp",
+        "Dorian Tremblay": "assets/logos/upstreams/dorian-tremblay.webp",
+        "Jack Patrick McGary": "assets/logos/upstreams/jack-patrick-mcgary.webp",
+        "Enmanuel Munoz": "assets/logos/upstreams/enmanuel-munoz.webp",
+        "Kotaro Mochizuki": "assets/logos/upstreams/kotaro-mochizuki.webp",
+        "Seiya Nakanishi": "assets/logos/upstreams/seiya-nakanishi.webp",
+        "Washington Wizards": "assets/logos/upstreams/washington-wizards.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1353,6 +1368,7 @@
         "Pakistan Women in South Africa, 3 T20I Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-t20i-series.webp",
         "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp",
         "USA - NBA": "assets/logos/leagues/usa-nba.webp",
-        "India - Super League": "assets/logos/leagues/india-super-league.webp"
+        "India - Super League": "assets/logos/leagues/india-super-league.webp",
+        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp"
     }
 }
