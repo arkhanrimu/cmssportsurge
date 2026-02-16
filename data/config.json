@@ -2,7 +2,7 @@
   "site_settings": {
     "sitemap_enabled": true,
     "sitemap_include_leagues": true,
-    "sitemap_static_pages": "founder-story, contact, privacy, terms, dmca",
+    "sitemap_static_pages": "our-mission, contact-us, terms, privacy, dmca",
     "sitemap_lastmod_manual": "2026-02-16",
     "ga4_id": "G-KVYJSX3VW7",
     "title_part_1": "Sport",
