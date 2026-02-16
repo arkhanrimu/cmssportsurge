@@ -237,7 +237,7 @@
   },
   "sport_priorities": {
     "US": {
-      "_HIDE_OTHERS": false,
+      "_HIDE_OTHERS": true,
       "_BOOST": "",
       "NFL": {
         "score": 100,
@@ -276,13 +276,13 @@
         "isHidden": false
       },
       "Premier League": {
-        "score": 89,
+        "score": 79,
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
       },
       "Champions League": {
-        "score": 88,
+        "score": 78,
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
@@ -294,14 +294,38 @@
         "isHidden": false
       },
       "MLS": {
-        "score": 87,
+        "score": 77,
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
       },
       "La Liga": {
-        "score": 85,
+        "score": 75,
         "isLeague": true,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "WWE": {
+        "score": 88,
+        "isLeague": true,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "CFB": {
+        "score": 89,
+        "isLeague": true,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "Boxing": {
+        "score": 87,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "MMA": {
+        "score": 86,
+        "isLeague": false,
         "hasLink": true,
         "isHidden": false
       }
