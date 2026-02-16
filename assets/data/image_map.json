@@ -1400,7 +1400,32 @@
         "Finland U17": "assets/logos/streamed/finland-u17.webp",
         "Spain U17": "assets/logos/streamed/spain-u17.webp",
         "Poland U17": "assets/logos/streamed/poland-u17.webp",
-        "Estonia U17": "assets/logos/streamed/estonia-u17.webp"
+        "Estonia U17": "assets/logos/streamed/estonia-u17.webp",
+        "BC Dubai": "assets/logos/upstreams/bc-dubai.webp",
+        "KK Bosna": "assets/logos/upstreams/kk-bosna.webp",
+        "Federico Agustin Gomez": "assets/logos/upstreams/federico-agustin-gomez.webp",
+        "Felix Gill": "assets/logos/upstreams/felix-gill.webp",
+        "Frederico Ferreira Silva": "assets/logos/upstreams/frederico-ferreira-silva.webp",
+        "Rei Sakamoto": "assets/logos/upstreams/rei-sakamoto.webp",
+        "Philip Sekulic": "assets/logos/upstreams/philip-sekulic.webp",
+        "Dimitar Kuzmanov": "assets/logos/upstreams/dimitar-kuzmanov.webp",
+        "Federico Cin\u00e0": "assets/logos/upstreams/federico-cin\u00e0.webp",
+        "Ioannis Xilas": "assets/logos/upstreams/ioannis-xilas.webp",
+        "Alastair Gray": "assets/logos/upstreams/alastair-gray.webp",
+        "Manas Dhamne": "assets/logos/upstreams/manas-dhamne.webp",
+        "Rio Noguchi": "assets/logos/upstreams/rio-noguchi.webp",
+        "Sanhui Shin": "assets/logos/upstreams/sanhui-shin.webp",
+        "Ilya Ivashka": "assets/logos/upstreams/ilya-ivashka.webp",
+        "Alexandr Binda": "assets/logos/upstreams/alexandr-binda.webp",
+        "Denis Yevseyev": "assets/logos/upstreams/denis-yevseyev.webp",
+        "Jay Clarke": "assets/logos/upstreams/jay-clarke.webp",
+        "Petr Bar Biryukov": "assets/logos/upstreams/petr-bar-biryukov.webp",
+        "Digvijay Pratap Singh": "assets/logos/upstreams/digvijay-pratap-singh.webp",
+        "Dane Sweeny": "assets/logos/upstreams/dane-sweeny.webp",
+        "Beibit Zhukayev": "assets/logos/upstreams/beibit-zhukayev.webp",
+        "David Jorda Sanchis": "assets/logos/upstreams/david-jorda-sanchis.webp",
+        "Sumit Nagal": "assets/logos/upstreams/sumit-nagal.webp",
+        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1576,6 +1601,7 @@
         "Tipos SBL": "assets/logos/leagues/tipos-sbl.webp",
         "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
         "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
-        "ECHL": "assets/logos/leagues/echl.webp"
+        "ECHL": "assets/logos/leagues/echl.webp",
+        "ABA Liga, Championship Round": "assets/logos/leagues/aba-liga-championship-round.webp"
     }
 }
