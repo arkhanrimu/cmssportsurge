@@ -1497,7 +1497,9 @@
         "Stony Brook": "assets/logos/streamed/stony-brook.webp",
         "Drexel": "assets/logos/streamed/drexel.webp",
         "Texas A and M-Corpus Christi": "assets/logos/streamed/texas-a-and-m-corpus-christi.webp",
-        "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp"
+        "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp",
+        "Chelmsford": "assets/logos/upstreams/chelmsford.webp",
+        "Maidstone": "assets/logos/upstreams/maidstone.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
