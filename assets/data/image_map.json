@@ -1425,7 +1425,9 @@
         "Beibit Zhukayev": "assets/logos/upstreams/beibit-zhukayev.webp",
         "David Jorda Sanchis": "assets/logos/upstreams/david-jorda-sanchis.webp",
         "Sumit Nagal": "assets/logos/upstreams/sumit-nagal.webp",
-        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp"
+        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp",
+        "Iowa State": "assets/logos/streamed/iowa-state.webp",
+        "Houston": "assets/logos/streamed/houston.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
