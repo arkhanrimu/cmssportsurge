@@ -1554,7 +1554,17 @@
         "Pedro Sakamoto": "assets/logos/upstreams/pedro-sakamoto.webp",
         "Carlos Sanchez Jover": "assets/logos/upstreams/carlos-sanchez-jover.webp",
         "Sweden Ice Hockey": "assets/logos/streamed/sweden-ice-hockey.webp",
-        "Latvia Ice Hockey": "assets/logos/streamed/latvia-ice-hockey.webp"
+        "Latvia Ice Hockey": "assets/logos/streamed/latvia-ice-hockey.webp",
+        "Fluminense": "assets/logos/upstreams/fluminense.webp",
+        "Bangu": "assets/logos/upstreams/bangu.webp",
+        "Aleksandar Kovacevic": "assets/logos/upstreams/aleksandar-kovacevic.webp",
+        "Marin \u010cili\u0107": "assets/logos/upstreams/marin-\u010dili\u0107.webp",
+        "Mackenzie McDonald": "assets/logos/upstreams/mackenzie-mcdonald.webp",
+        "Ethan Quinn": "assets/logos/upstreams/ethan-quinn.webp",
+        "Rafael Jodar": "assets/logos/upstreams/rafael-jodar.webp",
+        "Miomir Kecmanovic": "assets/logos/upstreams/miomir-kecmanovic.webp",
+        "Corentin Moutet": "assets/logos/upstreams/corentin-moutet.webp",
+        "Tommy Paul": "assets/logos/upstreams/tommy-paul.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1739,6 +1749,7 @@
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
         "MLB": "assets/logos/leagues/mlb.webp",
         "Italy Serie A": "assets/logos/leagues/italy-serie-a.webp",
-        "Tigre, Argentina": "assets/logos/leagues/tigre-argentina.webp"
+        "Tigre, Argentina": "assets/logos/leagues/tigre-argentina.webp",
+        "Carioca S\u00e9rie A \u2013 Mata-mata": "assets/logos/leagues/carioca-s\u00e9rie-a-mata-mata.webp"
     }
 }
