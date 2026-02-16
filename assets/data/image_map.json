@@ -1285,7 +1285,18 @@
         "Lautaro Agustin Falabella": "assets/logos/upstreams/lautaro-agustin-falabella.webp",
         "Juan Ignacio Gallego": "assets/logos/upstreams/juan-ignacio-gallego.webp",
         "Naoki Nakagawa": "assets/logos/upstreams/naoki-nakagawa.webp",
-        "Kazuma Kawachi": "assets/logos/upstreams/kazuma-kawachi.webp"
+        "Kazuma Kawachi": "assets/logos/upstreams/kazuma-kawachi.webp",
+        "Nika Radisic": "assets/logos/upstreams/nika-radisic.webp",
+        "Ramiro Amarilla": "assets/logos/upstreams/ramiro-amarilla.webp",
+        "Rocco Valente": "assets/logos/upstreams/rocco-valente.webp",
+        "Hernando Jose Escurra Isnardi": "assets/logos/upstreams/hernando-jose-escurra-isnardi.webp",
+        "Luciano Doria": "assets/logos/upstreams/luciano-doria.webp",
+        "Ewan Ogura": "assets/logos/upstreams/ewan-ogura.webp",
+        "Ryusuke Horiuchi": "assets/logos/upstreams/ryusuke-horiuchi.webp",
+        "Ryotaro Matsumura": "assets/logos/upstreams/ryotaro-matsumura.webp",
+        "Katsutoshi Suzuki": "assets/logos/upstreams/katsutoshi-suzuki.webp",
+        "Ayumi Miyamoto": "assets/logos/upstreams/ayumi-miyamoto.webp",
+        "Rina Komatsu": "assets/logos/upstreams/rina-komatsu.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1453,6 +1464,7 @@
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
         "Estonian-Latvian Basketball League": "assets/logos/leagues/estonian-latvian-basketball-league.webp",
         "Croatia - HNL": "assets/logos/leagues/croatia-hnl.webp",
-        "\u00c9lite 2": "assets/logos/leagues/\u00e9lite-2.webp"
+        "\u00c9lite 2": "assets/logos/leagues/\u00e9lite-2.webp",
+        "Darts": "assets/logos/leagues/darts.webp"
     }
 }
