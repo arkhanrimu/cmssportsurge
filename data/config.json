@@ -9,7 +9,7 @@
     "title_part_2": "Surge",
     "custom_js": "",
     "custom_meta_tags": [
-      "<meta name=\"google-site-verification\" content=\"\" />"
+      "<meta name=\"google-site-verification\" content=\"B8WUGDou7ifnRpa1jgmi6dqPx50d87ACigO1hcSta04\" />"
     ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://sportsurge.fit/sitemap.xml",
     "domain": "sportsurge.fit",
