@@ -1326,7 +1326,20 @@
         "Jenna Sloan": "assets/logos/upstreams/jenna-sloan.webp",
         "Mia Hasegawa": "assets/logos/upstreams/mia-hasegawa.webp",
         "Michiru Furuya": "assets/logos/upstreams/michiru-furuya.webp",
-        "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp"
+        "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp",
+        "Hapoel Afula": "assets/logos/upstreams/hapoel-afula.webp",
+        "Atlanta Gladiators": "assets/logos/upstreams/atlanta-gladiators.webp",
+        "Adirondack Thunder": "assets/logos/upstreams/adirondack-thunder.webp",
+        "Yamato Yukawa": "assets/logos/upstreams/yamato-yukawa.webp",
+        "Kairi Inoue": "assets/logos/upstreams/kairi-inoue.webp",
+        "Ryunosuke Kabasawa": "assets/logos/upstreams/ryunosuke-kabasawa.webp",
+        "Jumpei Yamasaki": "assets/logos/upstreams/jumpei-yamasaki.webp",
+        "Kanna Soeda": "assets/logos/upstreams/kanna-soeda.webp",
+        "Yui Ohwaki": "assets/logos/upstreams/yui-ohwaki.webp",
+        "Sera Nishimoto": "assets/logos/upstreams/sera-nishimoto.webp",
+        "Kato (2007) Miyu": "assets/logos/upstreams/kato-2007-miyu.webp",
+        "Yasmin Vavrova": "assets/logos/upstreams/yasmin-vavrova.webp",
+        "Kanami Nishimura": "assets/logos/upstreams/kanami-nishimura.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1501,6 +1514,7 @@
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
         "Tipos SBL": "assets/logos/leagues/tipos-sbl.webp",
         "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
-        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp"
+        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
+        "ECHL": "assets/logos/leagues/echl.webp"
     }
 }
