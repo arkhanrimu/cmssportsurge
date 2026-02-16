@@ -1267,7 +1267,12 @@
         "Lucia Cortez Llorca": "assets/logos/upstreams/lucia-cortez-llorca.webp",
         "Marie Mattel": "assets/logos/upstreams/marie-mattel.webp",
         "Aditya Vashistha": "assets/logos/upstreams/aditya-vashistha.webp",
-        "Timofey Stepanov": "assets/logos/upstreams/timofey-stepanov.webp"
+        "Timofey Stepanov": "assets/logos/upstreams/timofey-stepanov.webp",
+        "Paula Badosa Gibert": "assets/logos/upstreams/paula-badosa-gibert.webp",
+        "Valmiera Glass VIA": "assets/logos/upstreams/valmiera-glass-via.webp",
+        "VEF R\u012bga": "assets/logos/upstreams/vef-r\u012bga.webp",
+        "Vukovar": "assets/logos/upstreams/vukovar.webp",
+        "Slaven Belupo": "assets/logos/upstreams/slaven-belupo.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1432,6 +1437,8 @@
         "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp",
         "Tennis WTA": "assets/logos/leagues/tennis-wta.webp",
         "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
-        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp"
+        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
+        "Estonian-Latvian Basketball League": "assets/logos/leagues/estonian-latvian-basketball-league.webp",
+        "Croatia - HNL": "assets/logos/leagues/croatia-hnl.webp"
     }
 }
