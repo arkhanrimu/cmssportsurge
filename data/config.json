@@ -551,14 +551,14 @@
   "menus": {
     "header": [
       {
+        "title": "Home",
+        "url": "/",
+        "highlight": false
+      },
+      {
         "title": "Schedule",
         "url": "/#schedule",
         "highlight": true
-      },
-      {
-        "title": "User Guide",
-        "url": "/#user-guide",
-        "highlight": false
       },
       {
         "title": "FAQs",
@@ -566,8 +566,8 @@
         "highlight": false
       },
       {
-        "title": "Founder Story",
-        "url": "/founder-story/",
+        "title": "Our Mission",
+        "url": "/our-mission/",
         "highlight": false
       }
     ],
@@ -634,7 +634,7 @@
       },
       {
         "title": "Contact Us",
-        "url": "/contact/"
+        "url": "/contact-us/"
       }
     ],
     "footer_leagues": [
@@ -670,12 +670,12 @@
   ],
   "social_sharing": {
     "counts": {
-      "telegram": 55675,
-      "whatsapp": 23644,
-      "reddit": 54345,
-      "twitter": 75544
+      "telegram": 65675,
+      "whatsapp": 33644,
+      "reddit": 56345,
+      "twitter": 34544
     },
-    "excluded_pages": "dmca, contact, founder-story, privacy, terms"
+    "excluded_pages": "dmca, contact-us, our-mission, privacy, terms"
   },
   "theme_league": {
     "font_family_base": "Georgia, Cambria, 'Times New Roman', serif",
