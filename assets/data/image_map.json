@@ -1316,7 +1316,17 @@
         "Colorado Rockies": "assets/logos/upstreams/colorado-rockies.webp",
         "Arizona Diamondbacks": "assets/logos/upstreams/arizona-diamondbacks.webp",
         "Seattle Mariners": "assets/logos/upstreams/seattle-mariners.webp",
-        "San Diego Padres": "assets/logos/upstreams/san-diego-padres.webp"
+        "San Diego Padres": "assets/logos/upstreams/san-diego-padres.webp",
+        "Kasimpasa": "assets/logos/upstreams/kasimpasa.webp",
+        "Karag\u00fcmr\u00fck": "assets/logos/upstreams/karag\u00fcmr\u00fck.webp",
+        "Naoto Tomizawa": "assets/logos/upstreams/naoto-tomizawa.webp",
+        "Yuga Tashiro": "assets/logos/upstreams/yuga-tashiro.webp",
+        "Taketo Takamisawa": "assets/logos/upstreams/taketo-takamisawa.webp",
+        "Masaki Ishikawa": "assets/logos/upstreams/masaki-ishikawa.webp",
+        "Jenna Sloan": "assets/logos/upstreams/jenna-sloan.webp",
+        "Mia Hasegawa": "assets/logos/upstreams/mia-hasegawa.webp",
+        "Michiru Furuya": "assets/logos/upstreams/michiru-furuya.webp",
+        "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1490,6 +1500,7 @@
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
         "Tipos SBL": "assets/logos/leagues/tipos-sbl.webp",
-        "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp"
+        "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
+        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp"
     }
 }
