@@ -1209,7 +1209,13 @@
         "Seiya Nakanishi": "assets/logos/upstreams/seiya-nakanishi.webp",
         "Washington Wizards": "assets/logos/upstreams/washington-wizards.webp",
         "East Bengal FC": "assets/logos/upstreams/east-bengal-fc.webp",
-        "NorthEast United FC": "assets/logos/upstreams/northeast-united-fc.webp"
+        "NorthEast United FC": "assets/logos/upstreams/northeast-united-fc.webp",
+        "Sao Luiz RS": "assets/logos/upstreams/sao-luiz-rs.webp",
+        "SER Caxias": "assets/logos/upstreams/ser-caxias.webp",
+        "Liam Krall": "assets/logos/upstreams/liam-krall.webp",
+        "Tiago Silva": "assets/logos/upstreams/tiago-silva.webp",
+        "Bernardo Munk Mesa": "assets/logos/upstreams/bernardo-munk-mesa.webp",
+        "Alexander Aney": "assets/logos/upstreams/alexander-aney.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1371,6 +1377,8 @@
         "New Zealand - Ford Trophy": "assets/logos/leagues/new-zealand-ford-trophy.webp",
         "USA - NBA": "assets/logos/leagues/usa-nba.webp",
         "India - Super League": "assets/logos/leagues/india-super-league.webp",
-        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp"
+        "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp",
+        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp",
+        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp"
     }
 }
