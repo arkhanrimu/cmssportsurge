@@ -1433,7 +1433,37 @@
         "Germany Ice Hockey": "assets/logos/streamed/germany-ice-hockey.webp",
         "France Ice Hockey": "assets/logos/streamed/france-ice-hockey.webp",
         "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
-        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp"
+        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp",
+        "Rapla KK": "assets/logos/upstreams/rapla-kk.webp",
+        "Kalev/Cramo": "assets/logos/upstreams/kalevcramo.webp",
+        "Keila": "assets/logos/upstreams/keila.webp",
+        "Petra Mar\u010dinko": "assets/logos/upstreams/petra-mar\u010dinko.webp",
+        "Karen Khachanov": "assets/logos/upstreams/karen-khachanov.webp",
+        "Marton Fucsovics": "assets/logos/upstreams/marton-fucsovics.webp",
+        "Hady Habib": "assets/logos/upstreams/hady-habib.webp",
+        "Moez Echargui": "assets/logos/upstreams/moez-echargui.webp",
+        "Stefanos Tsitsipas": "assets/logos/upstreams/stefanos-tsitsipas.webp",
+        "Pablo Carre\u00f1o Busta": "assets/logos/upstreams/pablo-carre\u00f1o-busta.webp",
+        "Quentin Halys": "assets/logos/upstreams/quentin-halys.webp",
+        "Jiri Lehe\u010dka": "assets/logos/upstreams/jiri-lehe\u010dka.webp",
+        "Jenson Brooksby": "assets/logos/upstreams/jenson-brooksby.webp",
+        "Zhizhen Zhang": "assets/logos/upstreams/zhizhen-zhang.webp",
+        "Roberto Carball\u00e9s Baena": "assets/logos/upstreams/roberto-carball\u00e9s-baena.webp",
+        "Ugo Humbert": "assets/logos/upstreams/ugo-humbert.webp",
+        "F\u00e1bi\u00e1n Marozs\u00e1n": "assets/logos/upstreams/f\u00e1bi\u00e1n-marozs\u00e1n.webp",
+        "Zizou Bergs": "assets/logos/upstreams/zizou-bergs.webp",
+        "Giovanni Mpetshi Perricard": "assets/logos/upstreams/giovanni-mpetshi-perricard.webp",
+        "Clement Chidekh": "assets/logos/upstreams/clement-chidekh.webp",
+        "Jacob Fearnley": "assets/logos/upstreams/jacob-fearnley.webp",
+        "Carlos Alcaraz": "assets/logos/upstreams/carlos-alcaraz.webp",
+        "Arthur Rinderknech": "assets/logos/upstreams/arthur-rinderknech.webp",
+        "Jesper De Jong": "assets/logos/upstreams/jesper-de-jong.webp",
+        "Andrey Rublev": "assets/logos/upstreams/andrey-rublev.webp",
+        "Filip Misolic": "assets/logos/upstreams/filip-misolic.webp",
+        "Martin Landaluce": "assets/logos/upstreams/martin-landaluce.webp",
+        "Alexander Blockx": "assets/logos/upstreams/alexander-blockx.webp",
+        "Roman Safiullin": "assets/logos/upstreams/roman-safiullin.webp",
+        "Joel Schwaerzler": "assets/logos/upstreams/joel-schwaerzler.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -1610,6 +1640,7 @@
         "USA - MLB - Preseason": "assets/logos/leagues/usa-mlb-preseason.webp",
         "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
         "ECHL": "assets/logos/leagues/echl.webp",
-        "ABA Liga, Championship Round": "assets/logos/leagues/aba-liga-championship-round.webp"
+        "ABA Liga, Championship Round": "assets/logos/leagues/aba-liga-championship-round.webp",
+        "Midland, USA": "assets/logos/leagues/midland-usa.webp"
     }
 }
