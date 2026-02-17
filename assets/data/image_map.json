@@ -2309,7 +2309,10 @@
         "Croatia U19": "assets/logos/streamed/croatia-u19.webp",
         "Monte Roraima": "assets/logos/streamed/monte-roraima.webp",
         "TalTech Basketball": "assets/logos/upstreams/taltech-basketball.webp",
-        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp"
+        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp",
+        "Tartu \u00dclikool Maks & Moorits": "assets/logos/upstreams/tartu-\u00fclikool-maks-moorits.webp",
+        "Keila Korvpallikool": "assets/logos/upstreams/keila-korvpallikool.webp",
+        "Anagennisi Germasogeias (W)": "assets/logos/upstreams/anagennisi-germasogeias-w.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2556,6 +2559,7 @@
         "Snooker": "assets/logos/leagues/snooker.webp",
         "VriendenLoterij Eredivisie": "assets/logos/leagues/vriendenloterij-eredivisie.webp",
         "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp",
-        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp",
+        "Greece Basketball": "assets/logos/leagues/greece-basketball.webp"
     }
 }
