@@ -2106,7 +2106,21 @@
         "Caroline Werner": "assets/logos/upstreams/caroline-werner.webp",
         "Sinja Kraus": "assets/logos/upstreams/sinja-kraus.webp",
         "Montevideo City": "assets/logos/upstreams/montevideo-city.webp",
-        "Sweden W, Olympic Games Women": "assets/logos/upstreams/sweden-w-olympic-games-women.webp"
+        "Sweden W, Olympic Games Women": "assets/logos/upstreams/sweden-w-olympic-games-women.webp",
+        "Rafael Izquierdo Luque": "assets/logos/upstreams/rafael-izquierdo-luque.webp",
+        "Joao Graca": "assets/logos/upstreams/joao-graca.webp",
+        "Tomas Luis": "assets/logos/upstreams/tomas-luis.webp",
+        "Diogo Marques": "assets/logos/upstreams/diogo-marques.webp",
+        "Tiago Cacao": "assets/logos/upstreams/tiago-cacao.webp",
+        "Alejandro Lopez Escribano": "assets/logos/upstreams/alejandro-lopez-escribano.webp",
+        "Diego Fernandez Flores": "assets/logos/upstreams/diego-fernandez-flores.webp",
+        "Vladislav Melnic": "assets/logos/upstreams/vladislav-melnic.webp",
+        "Finn Murgett": "assets/logos/upstreams/finn-murgett.webp",
+        "Tanguy Genier": "assets/logos/upstreams/tanguy-genier.webp",
+        "Al-Ettifaq": "assets/logos/upstreams/al-ettifaq.webp",
+        "Al-Fateh": "assets/logos/upstreams/al-fateh.webp",
+        "HC Eurofarm Pelister": "assets/logos/upstreams/hc-eurofarm-pelister.webp",
+        "Orlen Wisla Plock": "assets/logos/upstreams/orlen-wisla-plock.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2342,6 +2356,7 @@
         "Volleyball": "assets/logos/leagues/volleyball.webp",
         "Football": "assets/logos/leagues/football.webp",
         "NBL, East": "assets/logos/leagues/nbl-east.webp",
-        "WTA - Dubai (EAU)": "assets/logos/leagues/wta-dubai-eau.webp"
+        "WTA - Dubai (EAU)": "assets/logos/leagues/wta-dubai-eau.webp",
+        "Handball": "assets/logos/leagues/handball.webp"
     }
 }
