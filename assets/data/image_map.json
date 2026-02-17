@@ -2197,7 +2197,14 @@
         "Elvira Juravliova": "assets/logos/upstreams/elvira-juravliova.webp",
         "Jerry Roddick": "assets/logos/upstreams/jerry-roddick.webp",
         "Salma Ewing": "assets/logos/upstreams/salma-ewing.webp",
-        "Jordyn Hazelitt": "assets/logos/upstreams/jordyn-hazelitt.webp"
+        "Jordyn Hazelitt": "assets/logos/upstreams/jordyn-hazelitt.webp",
+        "USM Annaba": "assets/logos/upstreams/usm-annaba.webp",
+        "Nrb Beni Oulbene": "assets/logos/upstreams/nrb-beni-oulbene.webp",
+        "USM El Harrach": "assets/logos/upstreams/usm-el-harrach.webp",
+        "CR Temouchent": "assets/logos/upstreams/cr-temouchent.webp",
+        "Feldi Eboli": "assets/logos/upstreams/feldi-eboli.webp",
+        "Sandro Abate": "assets/logos/upstreams/sandro-abate.webp",
+        "Sporting Sala Consilina": "assets/logos/upstreams/sporting-sala-consilina.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2437,6 +2444,7 @@
         "Handball": "assets/logos/leagues/handball.webp",
         "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
         "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp",
-        "Club Friendly": "assets/logos/leagues/club-friendly.webp"
+        "Club Friendly": "assets/logos/leagues/club-friendly.webp",
+        "Australia - NPL (W) - Queensland": "assets/logos/leagues/australia-npl-w-queensland.webp"
     }
 }
