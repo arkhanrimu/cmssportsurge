@@ -2058,7 +2058,9 @@
         "Ireland Cricket": "assets/logos/streamed/ireland-cricket.webp",
         "Zimbabwe Cricket": "assets/logos/streamed/zimbabwe-cricket.webp",
         "Scotland Cricket": "assets/logos/streamed/scotland-cricket.webp",
-        "Nepal Cricket": "assets/logos/streamed/nepal-cricket.webp"
+        "Nepal Cricket": "assets/logos/streamed/nepal-cricket.webp",
+        "Barbora Palicova": "assets/logos/upstreams/barbora-palicova.webp",
+        "Matilde Jorge": "assets/logos/upstreams/matilde-jorge.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
