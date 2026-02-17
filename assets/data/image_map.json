@@ -2262,7 +2262,16 @@
         "Real Du Faso": "assets/logos/upstreams/real-du-faso.webp",
         "Salitas FC": "assets/logos/upstreams/salitas-fc.webp",
         "Taki Adachi": "assets/logos/upstreams/taki-adachi.webp",
-        "Ren Machida": "assets/logos/upstreams/ren-machida.webp"
+        "Ren Machida": "assets/logos/upstreams/ren-machida.webp",
+        "Greater Tomorrow": "assets/logos/upstreams/greater-tomorrow.webp",
+        "Medina United": "assets/logos/upstreams/medina-united.webp",
+        "Bombada": "assets/logos/upstreams/bombada.webp",
+        "Steve Biko": "assets/logos/upstreams/steve-biko.webp",
+        "BST Galaxy": "assets/logos/upstreams/bst-galaxy.webp",
+        "Samger": "assets/logos/upstreams/samger.webp",
+        "Hart": "assets/logos/upstreams/hart.webp",
+        "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp",
+        "Erokspor": "assets/logos/upstreams/erokspor.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2508,6 +2517,7 @@
         "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
         "Snooker": "assets/logos/leagues/snooker.webp",
         "VriendenLoterij Eredivisie": "assets/logos/leagues/vriendenloterij-eredivisie.webp",
-        "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp"
+        "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp",
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
     }
 }
