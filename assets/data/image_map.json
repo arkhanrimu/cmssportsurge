@@ -2120,7 +2120,26 @@
         "Al-Ettifaq": "assets/logos/upstreams/al-ettifaq.webp",
         "Al-Fateh": "assets/logos/upstreams/al-fateh.webp",
         "HC Eurofarm Pelister": "assets/logos/upstreams/hc-eurofarm-pelister.webp",
-        "Orlen Wisla Plock": "assets/logos/upstreams/orlen-wisla-plock.webp"
+        "Orlen Wisla Plock": "assets/logos/upstreams/orlen-wisla-plock.webp",
+        "MO Constantine": "assets/logos/upstreams/mo-constantine.webp",
+        "JS Djidjel": "assets/logos/upstreams/js-djidjel.webp",
+        "RC Arbaa": "assets/logos/upstreams/rc-arbaa.webp",
+        "Ekaterina Alexandrova": "assets/logos/upstreams/ekaterina-alexandrova.webp",
+        "Pablo Carreno-Busta": "assets/logos/upstreams/pablo-carreno-busta.webp",
+        "Peyton Stearns": "assets/logos/upstreams/peyton-stearns.webp",
+        "Sara Bejlek": "assets/logos/upstreams/sara-bejlek.webp",
+        "Iva Jovic": "assets/logos/upstreams/iva-jovic.webp",
+        "Diana Shnaider": "assets/logos/upstreams/diana-shnaider.webp",
+        "Weronika Falkowska": "assets/logos/upstreams/weronika-falkowska.webp",
+        "Sara Gvozdenovi\u0107": "assets/logos/upstreams/sara-gvozdenovi\u0107.webp",
+        "Cori Gauff": "assets/logos/upstreams/cori-gauff.webp",
+        "Sara Sorribes Tormo": "assets/logos/upstreams/sara-sorribes-tormo.webp",
+        "Teodora Kostovic": "assets/logos/upstreams/teodora-kostovic.webp",
+        "Schweriner SC": "assets/logos/upstreams/schweriner-sc.webp",
+        "Zeren Spor": "assets/logos/upstreams/zeren-spor.webp",
+        "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp",
+        "Tampines Rovers": "assets/logos/upstreams/tampines-rovers.webp",
+        "C\u00f4ng An H\u00e0 N\u1ed9i": "assets/logos/upstreams/c\u00f4ng-an-h\u00e0-n\u1ed9i.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2357,6 +2376,8 @@
         "Football": "assets/logos/leagues/football.webp",
         "NBL, East": "assets/logos/leagues/nbl-east.webp",
         "WTA - Dubai (EAU)": "assets/logos/leagues/wta-dubai-eau.webp",
-        "Handball": "assets/logos/leagues/handball.webp"
+        "Handball": "assets/logos/leagues/handball.webp",
+        "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
+        "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp"
     }
 }
