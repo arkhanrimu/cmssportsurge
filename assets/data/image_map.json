@@ -2306,7 +2306,10 @@
         "Junior": "assets/logos/streamed/junior.webp",
         "America de Cali": "assets/logos/streamed/america-de-cali.webp",
         "CS Cartagines": "assets/logos/streamed/cs-cartagines.webp",
-        "Croatia U19": "assets/logos/streamed/croatia-u19.webp"
+        "Croatia U19": "assets/logos/streamed/croatia-u19.webp",
+        "Monte Roraima": "assets/logos/streamed/monte-roraima.webp",
+        "TalTech Basketball": "assets/logos/upstreams/taltech-basketball.webp",
+        "KK Viimsi": "assets/logos/upstreams/kk-viimsi.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
