@@ -2208,7 +2208,14 @@
         "Daniel Milavsky": "assets/logos/upstreams/daniel-milavsky.webp",
         "Juan Dominguez Collado": "assets/logos/upstreams/juan-dominguez-collado.webp",
         "Justin Roberts": "assets/logos/upstreams/justin-roberts.webp",
-        "Noah Zamora": "assets/logos/upstreams/noah-zamora.webp"
+        "Noah Zamora": "assets/logos/upstreams/noah-zamora.webp",
+        "Zamalek SC": "assets/logos/upstreams/zamalek-sc.webp",
+        "Ceramica Cleopatra": "assets/logos/upstreams/ceramica-cleopatra.webp",
+        "Tractor": "assets/logos/upstreams/tractor.webp",
+        "Mansfield": "assets/logos/upstreams/mansfield.webp",
+        "Marko Maric": "assets/logos/upstreams/marko-maric.webp",
+        "Hugo Maia": "assets/logos/upstreams/hugo-maia.webp",
+        "Irene Burillo": "assets/logos/upstreams/irene-burillo.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2449,6 +2456,7 @@
         "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
         "ATP Rio de Janeiro": "assets/logos/leagues/atp-rio-de-janeiro.webp",
         "Club Friendly": "assets/logos/leagues/club-friendly.webp",
-        "Australia - NPL (W) - Queensland": "assets/logos/leagues/australia-npl-w-queensland.webp"
+        "Australia - NPL (W) - Queensland": "assets/logos/leagues/australia-npl-w-queensland.webp",
+        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp"
     }
 }
