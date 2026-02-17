@@ -2060,7 +2060,31 @@
         "Scotland Cricket": "assets/logos/streamed/scotland-cricket.webp",
         "Nepal Cricket": "assets/logos/streamed/nepal-cricket.webp",
         "Barbora Palicova": "assets/logos/upstreams/barbora-palicova.webp",
-        "Matilde Jorge": "assets/logos/upstreams/matilde-jorge.webp"
+        "Matilde Jorge": "assets/logos/upstreams/matilde-jorge.webp",
+        "Crvena Zvezda": "assets/logos/upstreams/crvena-zvezda.webp",
+        "ATP 500 Doha: Fucsovics": "assets/logos/upstreams/atp-500-doha-fucsovics.webp",
+        "Habib": "assets/logos/upstreams/habib.webp",
+        "Torneo de Doha (T2026): Echargui": "assets/logos/upstreams/torneo-de-doha-t2026-echargui.webp",
+        "Tsitsipas": "assets/logos/upstreams/tsitsipas.webp",
+        "ATP 500 Doha: Lehecka": "assets/logos/upstreams/atp-500-doha-lehecka.webp",
+        "Brooksby": "assets/logos/upstreams/brooksby.webp",
+        "Torneo de Doha (T2026): Mochizuki": "assets/logos/upstreams/torneo-de-doha-t2026-mochizuki.webp",
+        "Khachanov": "assets/logos/upstreams/khachanov.webp",
+        "ATP 500 Doha: Humbert": "assets/logos/upstreams/atp-500-doha-humbert.webp",
+        "Marozsan": "assets/logos/upstreams/marozsan.webp",
+        "Torneo de Doha (T2026): Alcaraz": "assets/logos/upstreams/torneo-de-doha-t2026-alcaraz.webp",
+        "Rinderknech": "assets/logos/upstreams/rinderknech.webp",
+        "Santiago Pedro Franchini": "assets/logos/upstreams/santiago-pedro-franchini.webp",
+        "Torneo de Doha (T2026): De Jong": "assets/logos/upstreams/torneo-de-doha-t2026-de-jong.webp",
+        "Rublev": "assets/logos/upstreams/rublev.webp",
+        "Dreamland Gran Canaria": "assets/logos/upstreams/dreamland-gran-canaria.webp",
+        "Surne Bilbao Basket": "assets/logos/upstreams/surne-bilbao-basket.webp",
+        "Novara": "assets/logos/upstreams/novara.webp",
+        "Scandicci": "assets/logos/upstreams/scandicci.webp",
+        "Louvain": "assets/logos/upstreams/louvain.webp",
+        "Ankara | 120 min": "assets/logos/upstreams/ankara-120-min.webp",
+        "Juventud": "assets/logos/upstreams/juventud.webp",
+        "Guarani": "assets/logos/upstreams/guarani.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2289,6 +2313,10 @@
         "Finland - MEastis": "assets/logos/leagues/finland-meastis.webp",
         "Liiga": "assets/logos/leagues/liiga.webp",
         "Mestis": "assets/logos/leagues/mestis.webp",
-        "Germany BBL": "assets/logos/leagues/germany-bbl.webp"
+        "Germany BBL": "assets/logos/leagues/germany-bbl.webp",
+        "football": "assets/logos/leagues/football.webp",
+        "Qatar ExxonMobil Open": "assets/logos/leagues/qatar-exxonmobil-open.webp",
+        "Liga ACB": "assets/logos/leagues/liga-acb.webp",
+        "Volleyball": "assets/logos/leagues/volleyball.webp"
     }
 }
