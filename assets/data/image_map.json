@@ -2084,7 +2084,13 @@
         "Louvain": "assets/logos/upstreams/louvain.webp",
         "Ankara | 120 min": "assets/logos/upstreams/ankara-120-min.webp",
         "Juventud": "assets/logos/upstreams/juventud.webp",
-        "Guarani": "assets/logos/upstreams/guarani.webp"
+        "Guarani": "assets/logos/upstreams/guarani.webp",
+        "Francisco Rocha": "assets/logos/upstreams/francisco-rocha.webp",
+        "Rafael Giotis": "assets/logos/upstreams/rafael-giotis.webp",
+        "Giorgio Tabacco": "assets/logos/upstreams/giorgio-tabacco.webp",
+        "Daniel Batista": "assets/logos/upstreams/daniel-batista.webp",
+        "Drita": "assets/logos/upstreams/drita.webp",
+        "NK Celje": "assets/logos/upstreams/nk-celje.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -2317,6 +2323,7 @@
         "football": "assets/logos/leagues/football.webp",
         "Qatar ExxonMobil Open": "assets/logos/leagues/qatar-exxonmobil-open.webp",
         "Liga ACB": "assets/logos/leagues/liga-acb.webp",
-        "Volleyball": "assets/logos/leagues/volleyball.webp"
+        "Volleyball": "assets/logos/leagues/volleyball.webp",
+        "Football": "assets/logos/leagues/football.webp"
     }
 }
