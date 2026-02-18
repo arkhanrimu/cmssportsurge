@@ -2776,7 +2776,20 @@
         "Mathilde Ngijol Carre": "assets/logos/upstreams/mathilde-ngijol-carre.webp",
         "FC Real Sireti": "assets/logos/upstreams/fc-real-sireti.webp",
         "Dacia Buiucani": "assets/logos/upstreams/dacia-buiucani.webp",
-        "Taylah PrEaston": "assets/logos/upstreams/taylah-preaston.webp"
+        "Taylah PrEaston": "assets/logos/upstreams/taylah-preaston.webp",
+        "Virtus Lumezzane": "assets/logos/upstreams/virtus-lumezzane.webp",
+        "Fulgor Fidenza": "assets/logos/upstreams/fulgor-fidenza.webp",
+        "Valasske Mezirici": "assets/logos/upstreams/valasske-mezirici.webp",
+        "HC ISMM Koprivnice": "assets/logos/upstreams/hc-ismm-koprivnice.webp",
+        "HC Vrchlabi": "assets/logos/upstreams/hc-vrchlabi.webp",
+        "Mostecti LVI": "assets/logos/upstreams/mostecti-lvi.webp",
+        "HC Muni": "assets/logos/upstreams/hc-muni.webp",
+        "VUT Brno": "assets/logos/upstreams/vut-brno.webp",
+        "Engineers Prague": "assets/logos/upstreams/engineers-prague.webp",
+        "Belfast Giants": "assets/logos/upstreams/belfast-giants.webp",
+        "Coventry Blaze": "assets/logos/upstreams/coventry-blaze.webp",
+        "Nottingham Panthers": "assets/logos/upstreams/nottingham-panthers.webp",
+        "Sheffield Steelers": "assets/logos/upstreams/sheffield-steelers.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3078,6 +3091,7 @@
         "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
         "ICE Hockey League": "assets/logos/leagues/ice-hockey-league.webp",
         "Belgium - Super League (W)": "assets/logos/leagues/belgium-super-league-w.webp",
-        "AFC Champions League II": "assets/logos/leagues/afc-champions-league-ii.webp"
+        "AFC Champions League II": "assets/logos/leagues/afc-champions-league-ii.webp",
+        "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp"
     }
 }
