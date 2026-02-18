@@ -2741,7 +2741,11 @@
         "Pakistan Cricket": "assets/logos/streamed/pakistan-cricket.webp",
         "India Cricket": "assets/logos/streamed/india-cricket.webp",
         "Netherlands Cricket": "assets/logos/streamed/netherlands-cricket.webp",
-        "Sofia Shapatava": "assets/logos/upstreams/sofia-shapatava.webp"
+        "Sofia Shapatava": "assets/logos/upstreams/sofia-shapatava.webp",
+        "Slovakia Ice Hockey": "assets/logos/streamed/slovakia-ice-hockey.webp",
+        "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
+        "Finland Ice Hockey": "assets/logos/streamed/finland-ice-hockey.webp",
+        "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
