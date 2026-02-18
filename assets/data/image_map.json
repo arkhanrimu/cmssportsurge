@@ -2745,7 +2745,8 @@
         "Slovakia Ice Hockey": "assets/logos/streamed/slovakia-ice-hockey.webp",
         "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
         "Finland Ice Hockey": "assets/logos/streamed/finland-ice-hockey.webp",
-        "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp"
+        "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp",
+        "Zulte Waregem (W)": "assets/logos/upstreams/zulte-waregem-w.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3045,6 +3046,7 @@
         "NBL, West": "assets/logos/leagues/nbl-west.webp",
         "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp",
         "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
-        "ICE Hockey League": "assets/logos/leagues/ice-hockey-league.webp"
+        "ICE Hockey League": "assets/logos/leagues/ice-hockey-league.webp",
+        "Belgium - Super League (W)": "assets/logos/leagues/belgium-super-league-w.webp"
     }
 }
