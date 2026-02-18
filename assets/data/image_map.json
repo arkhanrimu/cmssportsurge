@@ -2870,7 +2870,18 @@
         "West Virginia": "assets/logos/streamed/west-virginia.webp",
         "Utah": "assets/logos/streamed/utah.webp",
         "Oklahoma State": "assets/logos/streamed/oklahoma-state.webp",
-        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp"
+        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
+        "St Johns": "assets/logos/streamed/st-johns.webp",
+        "Missouri": "assets/logos/streamed/missouri.webp",
+        "Vanderbilt": "assets/logos/streamed/vanderbilt.webp",
+        "Illinois State": "assets/logos/streamed/illinois-state.webp",
+        "Murray State": "assets/logos/streamed/murray-state.webp",
+        "Illinois": "assets/logos/streamed/illinois.webp",
+        "Utah State": "assets/logos/streamed/utah-state.webp",
+        "Boise State": "assets/logos/streamed/boise-state.webp",
+        "UNLV": "assets/logos/streamed/unlv.webp",
+        "Colorado State": "assets/logos/streamed/colorado-state.webp",
+        "San Francisco": "assets/logos/streamed/san-francisco.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
