@@ -2843,7 +2843,8 @@
         "Rbs Rigas Juniori": "assets/logos/upstreams/rbs-rigas-juniori.webp",
         "RSU/VEF Riga": "assets/logos/upstreams/rsuvef-riga.webp",
         "Margaux Rouvroy": "assets/logos/upstreams/margaux-rouvroy.webp",
-        "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp"
+        "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp",
+        "UU-Korihait Uusikaupunki": "assets/logos/upstreams/uu-korihait-uusikaupunki.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3149,6 +3150,7 @@
         "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp",
         "Greece Basketball Cup": "assets/logos/leagues/greece-basketball-cup.webp",
         "Romanian Basketball Cup": "assets/logos/leagues/romanian-basketball-cup.webp",
-        "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp"
+        "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp",
+        "Finland - KorisLeague - Winners' Tour": "assets/logos/leagues/finland-korisleague-winners-tour.webp"
     }
 }
