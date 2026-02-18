@@ -2735,7 +2735,12 @@
         "Pioneers Vorarlberg": "assets/logos/upstreams/pioneers-vorarlberg.webp",
         "Black Wings Linz": "assets/logos/upstreams/black-wings-linz.webp",
         "Mumbai City FC": "assets/logos/upstreams/mumbai-city-fc.webp",
-        "Chennaiyin FC": "assets/logos/upstreams/chennaiyin-fc.webp"
+        "Chennaiyin FC": "assets/logos/upstreams/chennaiyin-fc.webp",
+        "South Africa Cricket": "assets/logos/streamed/south-africa-cricket.webp",
+        "Namibia Cricket": "assets/logos/streamed/namibia-cricket.webp",
+        "Pakistan Cricket": "assets/logos/streamed/pakistan-cricket.webp",
+        "India Cricket": "assets/logos/streamed/india-cricket.webp",
+        "Netherlands Cricket": "assets/logos/streamed/netherlands-cricket.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
