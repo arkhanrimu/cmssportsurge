@@ -2881,7 +2881,12 @@
         "Boise State": "assets/logos/streamed/boise-state.webp",
         "UNLV": "assets/logos/streamed/unlv.webp",
         "Colorado State": "assets/logos/streamed/colorado-state.webp",
-        "San Francisco": "assets/logos/streamed/san-francisco.webp"
+        "San Francisco": "assets/logos/streamed/san-francisco.webp",
+        "Csikszereda Miercurea Ciuc": "assets/logos/upstreams/csikszereda-miercurea-ciuc.webp",
+        "Hermannstadt": "assets/logos/upstreams/hermannstadt.webp",
+        "FCSB": "assets/logos/upstreams/fcsb.webp",
+        "Metaloglobus BucurEasti": "assets/logos/upstreams/metaloglobus-bucureasti.webp",
+        "Casa Pia": "assets/logos/upstreams/casa-pia.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
