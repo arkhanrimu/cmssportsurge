@@ -2846,7 +2846,11 @@
         "Kajsa Rinaldo Persson": "assets/logos/upstreams/kajsa-rinaldo-persson.webp",
         "UU-Korihait Uusikaupunki": "assets/logos/upstreams/uu-korihait-uusikaupunki.webp",
         "Farnborough": "assets/logos/upstreams/farnborough.webp",
-        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp"
+        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp",
+        "Bayer Leverkusen --- GRE": "assets/logos/upstreams/bayer-leverkusen-gre.webp",
+        "Learner Tien": "assets/logos/upstreams/learner-tien.webp",
+        "Taylor Fritz": "assets/logos/upstreams/taylor-fritz.webp",
+        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3153,6 +3157,7 @@
         "Greece Basketball Cup": "assets/logos/leagues/greece-basketball-cup.webp",
         "Romanian Basketball Cup": "assets/logos/leagues/romanian-basketball-cup.webp",
         "French - Leaders Cup LNB": "assets/logos/leagues/french-leaders-cup-lnb.webp",
-        "Finland - KorisLeague - Winners' Tour": "assets/logos/leagues/finland-korisleague-winners-tour.webp"
+        "Finland - KorisLeague - Winners' Tour": "assets/logos/leagues/finland-korisleague-winners-tour.webp",
+        "ATP - Doha (QAT)": "assets/logos/leagues/atp-doha-qat.webp"
     }
 }
