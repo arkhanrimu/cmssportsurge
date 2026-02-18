@@ -2765,7 +2765,15 @@
         "Julieta Pareja": "assets/logos/upstreams/julieta-pareja.webp",
         "Vivian Wolff": "assets/logos/upstreams/vivian-wolff.webp",
         "KK Zemun": "assets/logos/upstreams/kk-zemun.webp",
-        "Vrsac": "assets/logos/upstreams/vrsac.webp"
+        "Vrsac": "assets/logos/upstreams/vrsac.webp",
+        "Serik Spor": "assets/logos/upstreams/serik-spor.webp",
+        "Corum": "assets/logos/upstreams/corum.webp",
+        "Erzurumspor": "assets/logos/upstreams/erzurumspor.webp",
+        "Zimbru Chisinau 2": "assets/logos/upstreams/zimbru-chisinau-2.webp",
+        "FC Stauceni": "assets/logos/upstreams/fc-stauceni.webp",
+        "Cong An Ha Noi": "assets/logos/upstreams/cong-an-ha-noi.webp",
+        "Rajat Shirur": "assets/logos/upstreams/rajat-shirur.webp",
+        "Mathilde Ngijol Carre": "assets/logos/upstreams/mathilde-ngijol-carre.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3066,6 +3074,7 @@
         "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp",
         "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
         "ICE Hockey League": "assets/logos/leagues/ice-hockey-league.webp",
-        "Belgium - Super League (W)": "assets/logos/leagues/belgium-super-league-w.webp"
+        "Belgium - Super League (W)": "assets/logos/leagues/belgium-super-league-w.webp",
+        "AFC Champions League II": "assets/logos/leagues/afc-champions-league-ii.webp"
     }
 }
