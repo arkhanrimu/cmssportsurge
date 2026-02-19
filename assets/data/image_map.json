@@ -3151,7 +3151,25 @@
         "Australia Women": "assets/logos/upstreams/australia-women.webp",
         "India Women": "assets/logos/upstreams/india-women.webp",
         "Tessa Johanna Brockmann": "assets/logos/upstreams/tessa-johanna-brockmann.webp",
-        "Williams M.": "assets/logos/upstreams/williams-m.webp"
+        "Williams M.": "assets/logos/upstreams/williams-m.webp",
+        "Roki": "assets/logos/upstreams/roki.webp",
+        "Tuto": "assets/logos/upstreams/tuto.webp",
+        "Imatran Kettera": "assets/logos/upstreams/imatran-kettera.webp",
+        "Tenis": "assets/logos/upstreams/tenis.webp",
+        "ATP 500 Doha: Lehecka - Fils": "assets/logos/upstreams/atp-500-doha-lehecka-fils.webp",
+        "Tourcoing": "assets/logos/upstreams/tourcoing.webp",
+        "Hull KR": "assets/logos/upstreams/hull-kr.webp",
+        "Brisbane Broncos": "assets/logos/upstreams/brisbane-broncos.webp",
+        "Annecy FC": "assets/logos/upstreams/annecy-fc.webp",
+        "Red Star FC": "assets/logos/upstreams/red-star-fc.webp",
+        "Alba Berlin": "assets/logos/upstreams/alba-berlin.webp",
+        "Regensburg": "assets/logos/upstreams/regensburg.webp",
+        "Wehen": "assets/logos/upstreams/wehen.webp",
+        "Nogomet: Gr\u0161ka liga: Asteras": "assets/logos/upstreams/nogomet-gr\u0161ka-liga-asteras.webp",
+        "Nicolas Ezequiel Jara": "assets/logos/upstreams/nicolas-ezequiel-jara.webp",
+        "Lorenzo GerezSuper welterweight": "assets/logos/upstreams/lorenzo-gerezsuper-welterweight.webp",
+        "Nimes": "assets/logos/upstreams/nimes.webp",
+        "St. Raphael": "assets/logos/upstreams/st-raphael.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3511,6 +3529,7 @@
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "Pokal": "assets/logos/leagues/pokal.webp",
-        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp"
+        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp",
+        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp"
     }
 }
