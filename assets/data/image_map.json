@@ -3142,7 +3142,8 @@
         "Alec Deckers": "assets/logos/upstreams/alec-deckers.webp",
         "Leyton Rivera": "assets/logos/upstreams/leyton-rivera.webp",
         "Mirza Ba\u0161i\u0107": "assets/logos/upstreams/mirza-ba\u0161i\u0107.webp",
-        "West Indies Cricket": "assets/logos/streamed/west-indies-cricket.webp"
+        "West Indies Cricket": "assets/logos/streamed/west-indies-cricket.webp",
+        "Kansai Helios Dom\u017eale": "assets/logos/upstreams/kansai-helios-dom\u017eale.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3500,6 +3501,7 @@
         "UFC Fight Night": "assets/logos/leagues/ufc-fight-night.webp",
         "NCAA, Regular Season": "assets/logos/leagues/ncaa-regular-season.webp",
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
-        "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp"
+        "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
+        "Pokal": "assets/logos/leagues/pokal.webp"
     }
 }
