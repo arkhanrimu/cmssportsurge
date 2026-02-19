@@ -3146,7 +3146,10 @@
         "Kansai Helios Dom\u017eale": "assets/logos/upstreams/kansai-helios-dom\u017eale.webp",
         "Gabriela C\u00e9": "assets/logos/upstreams/gabriela-c\u00e9.webp",
         "Arantxa Rus": "assets/logos/upstreams/arantxa-rus.webp",
-        "Katarina Jokic": "assets/logos/upstreams/katarina-jokic.webp"
+        "Katarina Jokic": "assets/logos/upstreams/katarina-jokic.webp",
+        "America De Cali": "assets/logos/upstreams/america-de-cali.webp",
+        "Australia Women": "assets/logos/upstreams/australia-women.webp",
+        "India Women": "assets/logos/upstreams/india-women.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3505,6 +3508,7 @@
         "NCAA, Regular Season": "assets/logos/leagues/ncaa-regular-season.webp",
         "Brasileir\u00e3o Betano": "assets/logos/leagues/brasileir\u00e3o-betano.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "Pokal": "assets/logos/leagues/pokal.webp"
+        "Pokal": "assets/logos/leagues/pokal.webp",
+        "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp"
     }
 }
