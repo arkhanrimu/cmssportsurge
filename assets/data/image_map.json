@@ -3190,7 +3190,13 @@
         "Dessau-Rosslauer": "assets/logos/upstreams/dessau-rosslauer.webp",
         "Coburg": "assets/logos/upstreams/coburg.webp",
         "Bietigheim": "assets/logos/upstreams/bietigheim.webp",
-        "Polina Iatcenko": "assets/logos/upstreams/polina-iatcenko.webp"
+        "Polina Iatcenko": "assets/logos/upstreams/polina-iatcenko.webp",
+        "Al Ahli Jeddah": "assets/logos/upstreams/al-ahli-jeddah.webp",
+        "AL Najma SC": "assets/logos/upstreams/al-najma-sc.webp",
+        "AFC Uta Arad": "assets/logos/upstreams/afc-uta-arad.webp",
+        "Botosani": "assets/logos/upstreams/botosani.webp",
+        "Univ. Cluj": "assets/logos/upstreams/univ-cluj.webp",
+        "Minas T\u00eanis Clube": "assets/logos/upstreams/minas-t\u00eanis-clube.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3552,6 +3558,7 @@
         "Pokal": "assets/logos/leagues/pokal.webp",
         "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp",
         "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
-        "Ligue A": "assets/logos/leagues/ligue-a.webp"
+        "Ligue A": "assets/logos/leagues/ligue-a.webp",
+        "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp"
     }
 }
