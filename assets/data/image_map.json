@@ -3316,7 +3316,19 @@
         "Metropolitanos": "assets/logos/upstreams/metropolitanos.webp",
         "Academia Puerto Cabello": "assets/logos/upstreams/academia-puerto-cabello.webp",
         "Trujillanos FC": "assets/logos/upstreams/trujillanos-fc.webp",
-        "Caracas FC": "assets/logos/upstreams/caracas-fc.webp"
+        "Caracas FC": "assets/logos/upstreams/caracas-fc.webp",
+        "Lech Poznan": "assets/logos/streamed/lech-poznan.webp",
+        "Al-Ahli Jeddah": "assets/logos/streamed/al-ahli-jeddah.webp",
+        "Al Kholood": "assets/logos/streamed/al-kholood.webp",
+        "Al Riyadh": "assets/logos/streamed/al-riyadh.webp",
+        "Hull K R": "assets/logos/streamed/hull-k-r.webp",
+        "FK Crvena Zvezda": "assets/logos/streamed/fk-crvena-zvezda.webp",
+        "Defensa Y Justicia": "assets/logos/streamed/defensa-y-justicia.webp",
+        "Belgrano Cordoba": "assets/logos/streamed/belgrano-cordoba.webp",
+        "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp",
+        "Club Guarani": "assets/logos/streamed/club-guarani.webp",
+        "Independ. Rivadavia": "assets/logos/streamed/independ-rivadavia.webp",
+        "Atletico Paranaense": "assets/logos/streamed/atletico-paranaense.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
