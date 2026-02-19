@@ -3169,7 +3169,27 @@
         "Nicolas Ezequiel Jara": "assets/logos/upstreams/nicolas-ezequiel-jara.webp",
         "Lorenzo GerezSuper welterweight": "assets/logos/upstreams/lorenzo-gerezsuper-welterweight.webp",
         "Nimes": "assets/logos/upstreams/nimes.webp",
-        "St. Raphael": "assets/logos/upstreams/st-raphael.webp"
+        "St. Raphael": "assets/logos/upstreams/st-raphael.webp",
+        "Richards Bay": "assets/logos/upstreams/richards-bay.webp",
+        "Balingen": "assets/logos/upstreams/balingen.webp",
+        "Lubeck Schwartau": "assets/logos/upstreams/lubeck-schwartau.webp",
+        "Oppenweiler/Backnang": "assets/logos/upstreams/oppenweilerbacknang.webp",
+        "Essen": "assets/logos/upstreams/essen.webp",
+        "Eintracht Hagen": "assets/logos/upstreams/eintracht-hagen.webp",
+        "Ferndorf": "assets/logos/upstreams/ferndorf.webp",
+        "TS Galaxy": "assets/logos/upstreams/ts-galaxy.webp",
+        "Asteras Tripolis": "assets/logos/upstreams/asteras-tripolis.webp",
+        "Golden Arrows": "assets/logos/upstreams/golden-arrows.webp",
+        "Stellenbosch": "assets/logos/upstreams/stellenbosch.webp",
+        "Casric Stars": "assets/logos/upstreams/casric-stars.webp",
+        "Dormagen": "assets/logos/upstreams/dormagen.webp",
+        "Northhorn-Lingen": "assets/logos/upstreams/northhorn-lingen.webp",
+        "Huttenberg": "assets/logos/upstreams/huttenberg.webp",
+        "Potsdam": "assets/logos/upstreams/potsdam.webp",
+        "Elbflorenz Dresden": "assets/logos/upstreams/elbflorenz-dresden.webp",
+        "Dessau-Rosslauer": "assets/logos/upstreams/dessau-rosslauer.webp",
+        "Coburg": "assets/logos/upstreams/coburg.webp",
+        "Bietigheim": "assets/logos/upstreams/bietigheim.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3530,6 +3550,7 @@
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "Pokal": "assets/logos/leagues/pokal.webp",
         "India Women in Australia, 3 T20I Series": "assets/logos/leagues/india-women-in-australia-3-t20i-series.webp",
-        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp"
+        "World Club Challenge": "assets/logos/leagues/world-club-challenge.webp",
+        "Ligue A": "assets/logos/leagues/ligue-a.webp"
     }
 }
