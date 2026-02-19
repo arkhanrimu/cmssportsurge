@@ -2928,7 +2928,12 @@
         "Chainat Hornbill": "assets/logos/upstreams/chainat-hornbill.webp",
         "Mahasarakham SBT": "assets/logos/upstreams/mahasarakham-sbt.webp",
         "USFAS Bamako": "assets/logos/upstreams/usfas-bamako.webp",
-        "Stade Malien": "assets/logos/upstreams/stade-malien.webp"
+        "Stade Malien": "assets/logos/upstreams/stade-malien.webp",
+        "Hurricanes Super Rugby": "assets/logos/streamed/hurricanes-super-rugby.webp",
+        "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
+        "Hellas Verona": "assets/logos/streamed/hellas-verona.webp",
+        "Texas Rangers": "assets/logos/streamed/texas-rangers.webp",
+        "Kansas City Royals": "assets/logos/streamed/kansas-city-royals.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
