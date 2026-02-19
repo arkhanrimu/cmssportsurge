@@ -3312,7 +3312,11 @@
         "Spezia": "assets/logos/streamed/spezia.webp",
         "Exeter Chiefs": "assets/logos/streamed/exeter-chiefs.webp",
         "Bath": "assets/logos/streamed/bath.webp",
-        "Pogon Szczecin": "assets/logos/streamed/pogon-szczecin.webp"
+        "Pogon Szczecin": "assets/logos/streamed/pogon-szczecin.webp",
+        "Metropolitanos": "assets/logos/upstreams/metropolitanos.webp",
+        "Academia Puerto Cabello": "assets/logos/upstreams/academia-puerto-cabello.webp",
+        "Trujillanos FC": "assets/logos/upstreams/trujillanos-fc.webp",
+        "Caracas FC": "assets/logos/upstreams/caracas-fc.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -3677,6 +3681,7 @@
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "The Ford Trophy, Playoffs": "assets/logos/leagues/the-ford-trophy-playoffs.webp",
         "Cricket T20": "assets/logos/leagues/cricket-t20.webp",
-        "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp"
+        "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp",
+        "Primera Division, Apertura": "assets/logos/leagues/primera-division-apertura.webp"
     }
 }
