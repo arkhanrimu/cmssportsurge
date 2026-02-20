@@ -4058,7 +4058,9 @@
         "Brown": "assets/logos/streamed/brown.webp",
         "Princeton": "assets/logos/streamed/princeton.webp",
         "Carolina Ascent": "assets/logos/upstreams/carolina-ascent.webp",
-        "Dallas Trinity": "assets/logos/upstreams/dallas-trinity.webp"
+        "Dallas Trinity": "assets/logos/upstreams/dallas-trinity.webp",
+        "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp",
+        "Charlotte FC": "assets/logos/streamed/charlotte-fc.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
