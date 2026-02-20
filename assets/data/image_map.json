@@ -3692,7 +3692,11 @@
         "St Albans Saints": "assets/logos/upstreams/st-albans-saints.webp",
         "HK TAM Levice": "assets/logos/upstreams/hk-tam-levice.webp",
         "HC BIT markets TEBS Bratislava": "assets/logos/upstreams/hc-bit-markets-tebs-bratislava.webp",
-        "Pakistan A": "assets/logos/upstreams/pakistan-a.webp"
+        "Pakistan A": "assets/logos/upstreams/pakistan-a.webp",
+        "St Helens": "assets/logos/streamed/st-helens.webp",
+        "Leigh Leopards": "assets/logos/streamed/leigh-leopards.webp",
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
+        "Catalans Dragons": "assets/logos/streamed/catalans-dragons.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
