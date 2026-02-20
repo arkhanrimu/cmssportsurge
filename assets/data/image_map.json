@@ -3996,7 +3996,19 @@
         "Korona Kielce": "assets/logos/streamed/korona-kielce.webp",
         "Tottenham": "assets/logos/streamed/tottenham.webp",
         "FC St. Pauli": "assets/logos/streamed/fc-st-pauli.webp",
-        "Cincinnati Reds": "assets/logos/streamed/cincinnati-reds.webp"
+        "Cincinnati Reds": "assets/logos/streamed/cincinnati-reds.webp",
+        "Krasava": "assets/logos/upstreams/krasava.webp",
+        "Leczna": "assets/logos/upstreams/leczna.webp",
+        "Real de Banjul": "assets/logos/upstreams/real-de-banjul.webp",
+        "FC Kallon": "assets/logos/upstreams/fc-kallon.webp",
+        "Diamond Stars": "assets/logos/upstreams/diamond-stars.webp",
+        "Star Sport Academy": "assets/logos/upstreams/star-sport-academy.webp",
+        "Luawa": "assets/logos/upstreams/luawa.webp",
+        "Paralimni": "assets/logos/upstreams/paralimni.webp",
+        "AEL Limassol": "assets/logos/upstreams/ael-limassol.webp",
+        "Lechia Gdansk": "assets/logos/upstreams/lechia-gdansk.webp",
+        "Martin Schindler": "assets/logos/upstreams/martin-schindler.webp",
+        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4424,6 +4436,9 @@
         "Finland - Korisliiga (W)": "assets/logos/leagues/finland-korisliiga-w.webp",
         "2nd League": "assets/logos/leagues/2nd-league.webp",
         "Italy - Serie A2": "assets/logos/leagues/italy-serie-a2.webp",
-        "Korisliiga, Women": "assets/logos/leagues/korisliiga-women.webp"
+        "Korisliiga, Women": "assets/logos/leagues/korisliiga-women.webp",
+        "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
+        "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp"
     }
 }
