@@ -3819,7 +3819,19 @@
         "Ecocity Genzano": "assets/logos/upstreams/ecocity-genzano.webp",
         "Fortitudo Pomezia": "assets/logos/upstreams/fortitudo-pomezia.webp",
         "Pirossigeno Cosenza": "assets/logos/upstreams/pirossigeno-cosenza.webp",
-        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp"
+        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp",
+        "Balestier Khalsa": "assets/logos/upstreams/balestier-khalsa.webp",
+        "Geylang International": "assets/logos/upstreams/geylang-international.webp",
+        "Persija Jakarta": "assets/logos/upstreams/persija-jakarta.webp",
+        "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp",
+        "Persik Kediri": "assets/logos/upstreams/persik-kediri.webp",
+        "Bhayangkara Presisi Lampung FC": "assets/logos/upstreams/bhayangkara-presisi-lampung-fc.webp",
+        "Semen Padang FC": "assets/logos/upstreams/semen-padang-fc.webp",
+        "Malut United FC": "assets/logos/upstreams/malut-united-fc.webp",
+        "Cameron Menzies": "assets/logos/upstreams/cameron-menzies.webp",
+        "Ritchie Edhouse": "assets/logos/upstreams/ritchie-edhouse.webp",
+        "L84": "assets/logos/upstreams/l84.webp",
+        "Nicolas Jara Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4242,6 +4254,7 @@
         "NRL pre-season: Wests Tigers V Panthers": "assets/logos/leagues/nrl-pre-season-wests-tigers-v-panthers.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "Cage Warriors": "assets/logos/leagues/cage-warriors.webp",
-        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp"
+        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
+        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp"
     }
 }
