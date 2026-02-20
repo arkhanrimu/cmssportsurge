@@ -4056,7 +4056,9 @@
         "Mount St Marys": "assets/logos/streamed/mount-st-marys.webp",
         "Niagara": "assets/logos/streamed/niagara.webp",
         "Brown": "assets/logos/streamed/brown.webp",
-        "Princeton": "assets/logos/streamed/princeton.webp"
+        "Princeton": "assets/logos/streamed/princeton.webp",
+        "Carolina Ascent": "assets/logos/upstreams/carolina-ascent.webp",
+        "Dallas Trinity": "assets/logos/upstreams/dallas-trinity.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4497,6 +4499,7 @@
         "Philippines Football League": "assets/logos/leagues/philippines-football-league.webp",
         "France Premiere Ligue Women": "assets/logos/leagues/france-premiere-ligue-women.webp",
         "Rugby Six Nations U20": "assets/logos/leagues/rugby-six-nations-u20.webp",
-        "Dubai, UAE, Qualifying": "assets/logos/leagues/dubai-uae-qualifying.webp"
+        "Dubai, UAE, Qualifying": "assets/logos/leagues/dubai-uae-qualifying.webp",
+        "USL Super League": "assets/logos/leagues/usl-super-league.webp"
     }
 }
