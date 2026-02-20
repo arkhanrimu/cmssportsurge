@@ -3831,7 +3831,32 @@
         "Cameron Menzies": "assets/logos/upstreams/cameron-menzies.webp",
         "Ritchie Edhouse": "assets/logos/upstreams/ritchie-edhouse.webp",
         "L84": "assets/logos/upstreams/l84.webp",
-        "Nicolas Jara Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp"
+        "Nicolas Jara Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp",
+        "Young Lions": "assets/logos/upstreams/young-lions.webp",
+        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp",
+        "Tapiolan Honka (W)": "assets/logos/upstreams/tapiolan-honka-w.webp",
+        "Pyrinto (W)": "assets/logos/upstreams/pyrinto-w.webp",
+        "SKN St. Polten": "assets/logos/upstreams/skn-st-polten.webp",
+        "Panthers Furstenfeld": "assets/logos/upstreams/panthers-furstenfeld.webp",
+        "Swarco Raiders Tirol": "assets/logos/upstreams/swarco-raiders-tirol.webp",
+        "Kufstein Towers": "assets/logos/upstreams/kufstein-towers.webp",
+        "W\u00f6rthersee Piraten": "assets/logos/upstreams/w\u00f6rthersee-piraten.webp",
+        "Dornbirn Lions": "assets/logos/upstreams/dornbirn-lions.webp",
+        "Jennersdorf Blackbirds": "assets/logos/upstreams/jennersdorf-blackbirds.webp",
+        "Kos Celovec": "assets/logos/upstreams/kos-celovec.webp",
+        "MEastre": "assets/logos/upstreams/meastre.webp",
+        "Pistoia": "assets/logos/upstreams/pistoia.webp",
+        "Brindisi": "assets/logos/upstreams/brindisi.webp",
+        "Vienna United": "assets/logos/upstreams/vienna-united.webp",
+        "Mistelbach Mustangs": "assets/logos/upstreams/mistelbach-mustangs.webp",
+        "Vimpeli Veto": "assets/logos/upstreams/vimpeli-veto.webp",
+        "Kouvottaret": "assets/logos/upstreams/kouvottaret.webp",
+        "Espoo Basket Team": "assets/logos/upstreams/espoo-basket-team.webp",
+        "Helmi Basket HBA": "assets/logos/upstreams/helmi-basket-hba.webp",
+        "Peli-Karhut": "assets/logos/upstreams/peli-karhut.webp",
+        "BC Nokia": "assets/logos/upstreams/bc-nokia.webp",
+        "Team Pajulahti": "assets/logos/upstreams/team-pajulahti.webp",
+        "Peu-Basket": "assets/logos/upstreams/peu-basket.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4255,6 +4280,10 @@
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "Cage Warriors": "assets/logos/leagues/cage-warriors.webp",
         "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
-        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp"
+        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
+        "Finland - Korisliiga (W)": "assets/logos/leagues/finland-korisliiga-w.webp",
+        "2nd League": "assets/logos/leagues/2nd-league.webp",
+        "Italy - Serie A2": "assets/logos/leagues/italy-serie-a2.webp",
+        "Korisliiga, Women": "assets/logos/leagues/korisliiga-women.webp"
     }
 }
