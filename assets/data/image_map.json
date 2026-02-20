@@ -3810,7 +3810,11 @@
         "Dan Ige": "assets/logos/upstreams/dan-ige.webp",
         "Melquizael Costa": "assets/logos/upstreams/melquizael-costa.webp",
         "Geoff Neal": "assets/logos/upstreams/geoff-neal.webp",
-        "Uros Medic": "assets/logos/upstreams/uros-medic.webp"
+        "Uros Medic": "assets/logos/upstreams/uros-medic.webp",
+        "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
+        "MNK Torcida": "assets/logos/upstreams/mnk-torcida.webp",
+        "Dinamo": "assets/logos/upstreams/dinamo.webp",
+        "SC Braga/AAUM": "assets/logos/upstreams/sc-bragaaaum.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4232,6 +4236,7 @@
         "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp",
         "NRL pre-season: Wests Tigers V Panthers": "assets/logos/leagues/nrl-pre-season-wests-tigers-v-panthers.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
-        "Cage Warriors": "assets/logos/leagues/cage-warriors.webp"
+        "Cage Warriors": "assets/logos/leagues/cage-warriors.webp",
+        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp"
     }
 }
