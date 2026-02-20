@@ -3766,7 +3766,27 @@
         "Storhamar W": "assets/logos/upstreams/storhamar-w.webp",
         "Bistrita W": "assets/logos/upstreams/bistrita-w.webp",
         "Rapid Bucuresti W": "assets/logos/upstreams/rapid-bucuresti-w.webp",
-        "Lok. Zagreb W": "assets/logos/upstreams/lok-zagreb-w.webp"
+        "Lok. Zagreb W": "assets/logos/upstreams/lok-zagreb-w.webp",
+        "Paphos": "assets/logos/upstreams/paphos.webp",
+        "Anorthosis": "assets/logos/upstreams/anorthosis.webp",
+        "Sambenedettese": "assets/logos/upstreams/sambenedettese.webp",
+        "Sioux Falls Skyforce": "assets/logos/upstreams/sioux-falls-skyforce.webp",
+        "Valley Suns": "assets/logos/upstreams/valley-suns.webp",
+        "Merrimack Warriors": "assets/logos/upstreams/merrimack-warriors.webp",
+        "Siena Saints": "assets/logos/upstreams/siena-saints.webp",
+        "Charlotte 49ers": "assets/logos/upstreams/charlotte-49ers.webp",
+        "East Carolina Pirates": "assets/logos/upstreams/east-carolina-pirates.webp",
+        "Wichita State Shockers": "assets/logos/upstreams/wichita-state-shockers.webp",
+        "Temple Owls": "assets/logos/upstreams/temple-owls.webp",
+        "CSM Bucuresti W": "assets/logos/upstreams/csm-bucuresti-w.webp",
+        "Herning-Ikast W": "assets/logos/upstreams/herning-ikast-w.webp",
+        "Olimpia Lions": "assets/logos/upstreams/olimpia-lions.webp",
+        "Pampas XV": "assets/logos/upstreams/pampas-xv.webp",
+        "Florida Atlantic": "assets/logos/upstreams/florida-atlantic.webp",
+        "Ternana W": "assets/logos/upstreams/ternana-w.webp",
+        "Volos NFC": "assets/logos/upstreams/volos-nfc.webp",
+        "Club Tijuana": "assets/logos/upstreams/club-tijuana.webp",
+        "Mazatl\u00e1n FC": "assets/logos/upstreams/mazatl\u00e1n-fc.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4182,6 +4202,9 @@
         "Austrian Basketball Superliga, Championship Round": "assets/logos/leagues/austrian-basketball-superliga-championship-round.webp",
         "EHF European League Women": "assets/logos/leagues/ehf-european-league-women.webp",
         "Division 1 Women": "assets/logos/leagues/division-1-women.webp",
-        "Serie C - Group C": "assets/logos/leagues/serie-c-group-c.webp"
+        "Serie C - Group C": "assets/logos/leagues/serie-c-group-c.webp",
+        "First Division": "assets/logos/leagues/first-division.webp",
+        "NBA G League": "assets/logos/leagues/nba-g-league.webp",
+        "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp"
     }
 }
