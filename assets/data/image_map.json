@@ -3814,7 +3814,12 @@
         "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
         "MNK Torcida": "assets/logos/upstreams/mnk-torcida.webp",
         "Dinamo": "assets/logos/upstreams/dinamo.webp",
-        "SC Braga/AAUM": "assets/logos/upstreams/sc-bragaaaum.webp"
+        "SC Braga/AAUM": "assets/logos/upstreams/sc-bragaaaum.webp",
+        "Kocaeli": "assets/logos/upstreams/kocaeli.webp",
+        "Ecocity Genzano": "assets/logos/upstreams/ecocity-genzano.webp",
+        "Fortitudo Pomezia": "assets/logos/upstreams/fortitudo-pomezia.webp",
+        "Pirossigeno Cosenza": "assets/logos/upstreams/pirossigeno-cosenza.webp",
+        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
