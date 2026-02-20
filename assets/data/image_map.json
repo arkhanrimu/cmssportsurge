@@ -4008,7 +4008,23 @@
         "AEL Limassol": "assets/logos/upstreams/ael-limassol.webp",
         "Lechia Gdansk": "assets/logos/upstreams/lechia-gdansk.webp",
         "Martin Schindler": "assets/logos/upstreams/martin-schindler.webp",
-        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp"
+        "Boris Kr\u010dmar": "assets/logos/upstreams/boris-kr\u010dmar.webp",
+        "FC Nordsj\u00e6lland": "assets/logos/upstreams/fc-nordsj\u00e6lland.webp",
+        "IFK Skovde FK": "assets/logos/upstreams/ifk-skovde-fk.webp",
+        "IF Brommapojkarna": "assets/logos/upstreams/if-brommapojkarna.webp",
+        "Mannheim": "assets/logos/upstreams/mannheim.webp",
+        "Kaya-Iloilo": "assets/logos/upstreams/kaya-iloilo.webp",
+        "Taguig FC": "assets/logos/upstreams/taguig-fc.webp",
+        "Enosis Neon Paralimni": "assets/logos/upstreams/enosis-neon-paralimni.webp",
+        "APOEL B.C.": "assets/logos/upstreams/apoel-bc.webp",
+        "Keravnos Strovolou": "assets/logos/upstreams/keravnos-strovolou.webp",
+        "Digenis Akritas Morphou": "assets/logos/upstreams/digenis-akritas-morphou.webp",
+        "BS Tukums/Tss": "assets/logos/upstreams/bs-tukumstss.webp",
+        "Ventspils Augstskola": "assets/logos/upstreams/ventspils-augstskola.webp",
+        "DH Cebu FC": "assets/logos/upstreams/dh-cebu-fc.webp",
+        "Tuloy FC": "assets/logos/upstreams/tuloy-fc.webp",
+        "SU Agen": "assets/logos/upstreams/su-agen.webp",
+        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4439,6 +4455,13 @@
         "Korisliiga, Women": "assets/logos/leagues/korisliiga-women.webp",
         "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
         "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
-        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp"
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp",
+        "Danish Superliga": "assets/logos/leagues/danish-superliga.webp",
+        "Svenska Cupen, Group 5": "assets/logos/leagues/svenska-cupen-group-5.webp",
+        "Sweden Women Svenska Cupen": "assets/logos/leagues/sweden-women-svenska-cupen.webp",
+        "Romania Superliga": "assets/logos/leagues/romania-superliga.webp",
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
+        "Premi\u00e8re Ligue, F\u00e9minine": "assets/logos/leagues/premi\u00e8re-ligue-f\u00e9minine.webp",
+        "Philippines Football League": "assets/logos/leagues/philippines-football-league.webp"
     }
 }
