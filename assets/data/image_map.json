@@ -4459,7 +4459,9 @@
         "Glasgow Clan": "assets/logos/upstreams/glasgow-clan.webp",
         "Fife Flyers": "assets/logos/upstreams/fife-flyers.webp",
         "Manchester Storm": "assets/logos/upstreams/manchester-storm.webp",
-        "HC Merano": "assets/logos/upstreams/hc-merano.webp"
+        "HC Merano": "assets/logos/upstreams/hc-merano.webp",
+        "Cronulla Sharks": "assets/logos/streamed/cronulla-sharks.webp",
+        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
