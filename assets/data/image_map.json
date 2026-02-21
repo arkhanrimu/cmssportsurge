@@ -4554,7 +4554,23 @@
         "Geoffrey Neal": "assets/logos/upstreams/geoffrey-neal.webp",
         "Diane Parry": "assets/logos/upstreams/diane-parry.webp",
         "Heather Watson": "assets/logos/upstreams/heather-watson.webp",
-        "Victoria Jimenez Kasintseva": "assets/logos/upstreams/victoria-jimenez-kasintseva.webp"
+        "Victoria Jimenez Kasintseva": "assets/logos/upstreams/victoria-jimenez-kasintseva.webp",
+        "Nyiregyhaza Spartacus FC": "assets/logos/upstreams/nyiregyhaza-spartacus-fc.webp",
+        "Kisvarda": "assets/logos/upstreams/kisvarda.webp",
+        "DUX Logro\u00f1o": "assets/logos/upstreams/dux-logro\u00f1o.webp",
+        "FC Badalona": "assets/logos/upstreams/fc-badalona.webp",
+        "Radnik": "assets/logos/upstreams/radnik.webp",
+        "Napredak": "assets/logos/upstreams/napredak.webp",
+        "Alanya": "assets/logos/upstreams/alanya.webp",
+        "Basaksehir": "assets/logos/upstreams/basaksehir.webp",
+        "Amarante FC": "assets/logos/upstreams/amarante-fc.webp",
+        "CD Mafra": "assets/logos/upstreams/cd-mafra.webp",
+        "Etoile Filante Lome": "assets/logos/upstreams/etoile-filante-lome.webp",
+        "AS Otr": "assets/logos/upstreams/as-otr.webp",
+        "C.F. Os Belenenses": "assets/logos/upstreams/cf-os-belenenses.webp",
+        "Acad\u00e9mica Coimbra": "assets/logos/upstreams/acad\u00e9mica-coimbra.webp",
+        "Chris Dobey": "assets/logos/upstreams/chris-dobey.webp",
+        "Connor Scutt": "assets/logos/upstreams/connor-scutt.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -5049,6 +5065,9 @@
         "Austin, USA, Qualifying": "assets/logos/leagues/austin-usa-qualifying.webp",
         "Merida, Mexico, Qualifying": "assets/logos/leagues/merida-mexico-qualifying.webp",
         "Acapulco, Mexico, Qualifying": "assets/logos/leagues/acapulco-mexico-qualifying.webp",
-        "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp"
+        "UFC Fight Night: Strickland vs. Hernandez": "assets/logos/leagues/ufc-fight-night-strickland-vs-hernandez.webp",
+        "NB I": "assets/logos/leagues/nb-i.webp",
+        "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
+        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp"
     }
 }
