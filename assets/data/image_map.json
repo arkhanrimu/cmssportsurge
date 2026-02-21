@@ -4469,7 +4469,12 @@
         "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
         "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
-        "Hull F.C.": "assets/logos/streamed/hull-fc.webp"
+        "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
+        "GFS Panetolikos": "assets/logos/upstreams/gfs-panetolikos.webp",
+        "Skenderbeu Korce": "assets/logos/upstreams/skenderbeu-korce.webp",
+        "Lexington SC": "assets/logos/upstreams/lexington-sc.webp",
+        "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
+        "Higgins J.": "assets/logos/upstreams/higgins-j.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4956,6 +4961,8 @@
         "EHF - European League (W) - Gr.D": "assets/logos/leagues/ehf-european-league-w-grd.webp",
         "Primera Divisi\u00f3n, Clausura": "assets/logos/leagues/primera-divisi\u00f3n-clausura.webp",
         "Costa Rica - Primera Division - Clausura": "assets/logos/leagues/costa-rica-primera-division-clausura.webp",
-        "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp"
+        "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp",
+        "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
+        "The Ford Trophy, Final": "assets/logos/leagues/the-ford-trophy-final.webp"
     }
 }
