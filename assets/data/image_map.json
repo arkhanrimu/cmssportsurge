@@ -4617,7 +4617,30 @@
         "Club Queretaro": "assets/logos/streamed/club-queretaro.webp",
         "FC Juarez": "assets/logos/streamed/fc-juarez.webp",
         "Seattle Sounders": "assets/logos/streamed/seattle-sounders.webp",
-        "Colorado Rapids": "assets/logos/streamed/colorado-rapids.webp"
+        "Colorado Rapids": "assets/logos/streamed/colorado-rapids.webp",
+        "Altach": "assets/logos/upstreams/altach.webp",
+        "Austria Vienna": "assets/logos/upstreams/austria-vienna.webp",
+        "Hartberg": "assets/logos/upstreams/hartberg.webp",
+        "GAK": "assets/logos/upstreams/gak.webp",
+        "Asfa Yennega": "assets/logos/upstreams/asfa-yennega.webp",
+        "Pafos FC": "assets/logos/upstreams/pafos-fc.webp",
+        "1\u00ba Dezembro": "assets/logos/upstreams/1\u00ba-dezembro.webp",
+        "Atletico CP": "assets/logos/upstreams/atletico-cp.webp",
+        "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
+        "AD Marco 09": "assets/logos/upstreams/ad-marco-09.webp",
+        "USC Paredes": "assets/logos/upstreams/usc-paredes.webp",
+        "AD Sanjoanense": "assets/logos/upstreams/ad-sanjoanense.webp",
+        "Lusitano Evora": "assets/logos/upstreams/lusitano-evora.webp",
+        "Amora": "assets/logos/upstreams/amora.webp",
+        "SC Covilh\u00e3": "assets/logos/upstreams/sc-covilh\u00e3.webp",
+        "Caldas SC": "assets/logos/upstreams/caldas-sc.webp",
+        "Gen\u00e8ve LPLO": "assets/logos/upstreams/gen\u00e8ve-lplo.webp",
+        "Esperance Sportive Pully": "assets/logos/upstreams/esperance-sportive-pully.webp",
+        "RB Bragantino": "assets/logos/upstreams/rb-bragantino.webp",
+        "Orlando Luz": "assets/logos/upstreams/orlando-luz.webp",
+        "Henrique Rocha": "assets/logos/upstreams/henrique-rocha.webp",
+        "Jan-Lennard Struff": "assets/logos/upstreams/jan-lennard-struff.webp",
+        "Patricio Heras": "assets/logos/upstreams/patricio-heras.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -5117,6 +5140,10 @@
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
         "Finland - KorisLeague - The losers' tour": "assets/logos/leagues/finland-korisleague-the-losers-tour.webp",
-        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp"
+        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
+        "1st Division": "assets/logos/leagues/1st-division.webp",
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp",
+        "Liga 3, Relegation Round, Group 1": "assets/logos/leagues/liga-3-relegation-round-group-1.webp",
+        "Brazil - Paulista - Serie A1 - Playoff": "assets/logos/leagues/brazil-paulista-serie-a1-playoff.webp"
     }
 }
