@@ -4474,7 +4474,17 @@
         "Skenderbeu Korce": "assets/logos/upstreams/skenderbeu-korce.webp",
         "Lexington SC": "assets/logos/upstreams/lexington-sc.webp",
         "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
-        "Higgins J.": "assets/logos/upstreams/higgins-j.webp"
+        "Higgins J.": "assets/logos/upstreams/higgins-j.webp",
+        "AD Sarchi": "assets/logos/upstreams/ad-sarchi.webp",
+        "Jicaral": "assets/logos/upstreams/jicaral.webp",
+        "TWK Innsbruck": "assets/logos/upstreams/twk-innsbruck.webp",
+        "FTC-Telekom": "assets/logos/upstreams/ftc-telekom.webp",
+        "Bolzano Foxes": "assets/logos/upstreams/bolzano-foxes.webp",
+        "Fehervar AV19": "assets/logos/upstreams/fehervar-av19.webp",
+        "US Cr\u00e9teil Handball": "assets/logos/upstreams/us-cr\u00e9teil-handball.webp",
+        "Cournon d'Auvergne": "assets/logos/upstreams/cournon-dauvergne.webp",
+        "Sarrebourg": "assets/logos/upstreams/sarrebourg.webp",
+        "Caen": "assets/logos/upstreams/caen.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -4963,6 +4973,7 @@
         "Costa Rica - Primera Division - Clausura": "assets/logos/leagues/costa-rica-primera-division-clausura.webp",
         "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp",
         "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
-        "The Ford Trophy, Final": "assets/logos/leagues/the-ford-trophy-final.webp"
+        "The Ford Trophy, Final": "assets/logos/leagues/the-ford-trophy-final.webp",
+        "Austria - ICE League": "assets/logos/leagues/austria-ice-league.webp"
     }
 }
