@@ -4061,7 +4061,13 @@
         "Dallas Trinity": "assets/logos/upstreams/dallas-trinity.webp",
         "St. Louis City SC": "assets/logos/streamed/st-louis-city-sc.webp",
         "Charlotte FC": "assets/logos/streamed/charlotte-fc.webp",
-        "Monika Stanikova": "assets/logos/upstreams/monika-stanikova.webp"
+        "Monika Stanikova": "assets/logos/upstreams/monika-stanikova.webp",
+        "Valmiera Glass Via": "assets/logos/upstreams/valmiera-glass-via.webp",
+        "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
+        "Tampa Bay Sun FC": "assets/logos/upstreams/tampa-bay-sun-fc.webp",
+        "Fort Lauderdale United": "assets/logos/upstreams/fort-lauderdale-united.webp",
+        "Don Bosco Garelli United": "assets/logos/upstreams/don-bosco-garelli-united.webp",
+        "Aguilas-UMak FC": "assets/logos/upstreams/aguilas-umak-fc.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
