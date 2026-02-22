@@ -4724,7 +4724,18 @@
         "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp",
         "BYU": "assets/logos/streamed/byu.webp",
         "Queretaro FC": "assets/logos/streamed/queretaro-fc.webp",
-        "Deportivo Alav\u00e9s": "assets/logos/streamed/deportivo-alav\u00e9s.webp"
+        "Deportivo Alav\u00e9s": "assets/logos/streamed/deportivo-alav\u00e9s.webp",
+        "Boncourt": "assets/logos/upstreams/boncourt.webp",
+        "Farzan Amiri": "assets/logos/upstreams/farzan-amiri.webp",
+        "Alexander Donski": "assets/logos/upstreams/alexander-donski.webp",
+        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp",
+        "Johan Nikles": "assets/logos/upstreams/johan-nikles.webp",
+        "Federico Iannaccone": "assets/logos/upstreams/federico-iannaccone.webp",
+        "Dylan Dietrich": "assets/logos/upstreams/dylan-dietrich.webp",
+        "Gabriele Piraino": "assets/logos/upstreams/gabriele-piraino.webp",
+        "Oleksandr Ovcharenko": "assets/logos/upstreams/oleksandr-ovcharenko.webp",
+        "Limpopo": "assets/logos/upstreams/limpopo.webp",
+        "Knights": "assets/logos/upstreams/knights.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -5233,6 +5244,8 @@
         "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
         "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp",
         "Pune, India, Qualifying": "assets/logos/leagues/pune-india-qualifying.webp",
-        "League 2": "assets/logos/leagues/league-2.webp"
+        "League 2": "assets/logos/leagues/league-2.webp",
+        "Lugano, Switzerland, Qualifying": "assets/logos/leagues/lugano-switzerland-qualifying.webp",
+        "Pakistan Women in South Africa, 3 ODI Series": "assets/logos/leagues/pakistan-women-in-south-africa-3-odi-series.webp"
     }
 }
