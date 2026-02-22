@@ -5081,7 +5081,22 @@
         "Wakefield Trinity Wildcats": "assets/logos/streamed/wakefield-trinity-wildcats.webp",
         "Kastrioti Kruje": "assets/logos/upstreams/kastrioti-kruje.webp",
         "Kauno \u017dalgiris": "assets/logos/upstreams/kauno-\u017ealgiris.webp",
-        "Hougang United": "assets/logos/upstreams/hougang-united.webp"
+        "Hougang United": "assets/logos/upstreams/hougang-united.webp",
+        "Puszcza": "assets/logos/upstreams/puszcza.webp",
+        "S Rzeszow": "assets/logos/upstreams/s-rzeszow.webp",
+        "Roda JC Kerkrade": "assets/logos/upstreams/roda-jc-kerkrade.webp",
+        "MVV Maastricht": "assets/logos/upstreams/mvv-maastricht.webp",
+        "AZ Alkmaar W": "assets/logos/upstreams/az-alkmaar-w.webp",
+        "PSV W": "assets/logos/upstreams/psv-w.webp",
+        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp",
+        "Singida Black Stars": "assets/logos/upstreams/singida-black-stars.webp",
+        "Costa Adeje Tenerife": "assets/logos/upstreams/costa-adeje-tenerife.webp",
+        "Police FC": "assets/logos/upstreams/police-fc.webp",
+        "APS Bomet": "assets/logos/upstreams/aps-bomet.webp",
+        "Allura Zamarripa": "assets/logos/upstreams/allura-zamarripa.webp",
+        "Alyssa Reguer": "assets/logos/upstreams/alyssa-reguer.webp",
+        "Analu Freitas": "assets/logos/upstreams/analu-freitas.webp",
+        "Michaela Bayerlova": "assets/logos/upstreams/michaela-bayerlova.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
@@ -5610,6 +5625,9 @@
         "Netherlands - Eredivisie (W)": "assets/logos/leagues/netherlands-eredivisie-w.webp",
         "Scottish - Premier League (W)": "assets/logos/leagues/scottish-premier-league-w.webp",
         "St. Brieuc, France, Qualifying": "assets/logos/leagues/st-brieuc-france-qualifying.webp",
-        "Tigre 2, Argentina, Qualifying": "assets/logos/leagues/tigre-2-argentina-qualifying.webp"
+        "Tigre 2, Argentina, Qualifying": "assets/logos/leagues/tigre-2-argentina-qualifying.webp",
+        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp",
+        "Spanish Liga F Women": "assets/logos/leagues/spanish-liga-f-women.webp",
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp"
     }
 }
