@@ -4718,7 +4718,13 @@
         "Metaloglobus": "assets/logos/upstreams/metaloglobus.webp",
         "Al Qadisiya": "assets/logos/upstreams/al-qadisiya.webp",
         "Jong AZ": "assets/logos/upstreams/jong-az.webp",
-        "Den Bosch": "assets/logos/upstreams/den-bosch.webp"
+        "Den Bosch": "assets/logos/upstreams/den-bosch.webp",
+        "Pacific": "assets/logos/streamed/pacific.webp",
+        "Crusaders Super Rugby": "assets/logos/streamed/crusaders-super-rugby.webp",
+        "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp",
+        "BYU": "assets/logos/streamed/byu.webp",
+        "Queretaro FC": "assets/logos/streamed/queretaro-fc.webp",
+        "Deportivo Alav\u00e9s": "assets/logos/streamed/deportivo-alav\u00e9s.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
