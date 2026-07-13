@@ -8,4 +8,4 @@ Disallow: /data/
 Disallow: /scripts/
 
 # Sitemap
-Sitemap: https://sportsurge.cyou/sitemap.xml
+Sitemap: https://isportsurge.shop/sitemap.xml
