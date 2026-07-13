@@ -237,7 +237,7 @@
   },
   "sport_priorities": {
     "US": {
-      "_HIDE_OTHERS": false,
+      "_HIDE_OTHERS": true,
       "_BOOST": "FIFA, Football",
       "NFL": {
         "score": 100,
@@ -355,6 +355,12 @@
       },
       "Golf": {
         "score": 30,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "FIFA": {
+        "score": 50,
         "isLeague": false,
         "hasLink": true,
         "isHidden": false
