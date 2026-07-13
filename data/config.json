@@ -3,8 +3,8 @@
     "sitemap_enabled": true,
     "sitemap_include_leagues": true,
     "sitemap_static_pages": "our-mission, contact-us, terms, privacy, dmca",
-    "sitemap_lastmod_manual": "2026-07-08",
-    "ga4_id": "G-SRYQKQH4KW",
+    "sitemap_lastmod_manual": "2026-07-13",
+    "ga4_id": "G-0QWC1CW8LG",
     "title_part_1": "Sport",
     "title_part_2": "Surge",
     "custom_js": "",
@@ -12,15 +12,15 @@
       "<meta name=\"referrer\" content=\"no-referrer-when-downgrade\" />"
     ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://sportsurge.cyou/sitemap.xml",
-    "domain": "sportsurge.cyou",
+    "domain": "isportsurge.shop",
     "logo_url": "/assets/sportsurge-logo.webp",
     "favicon_url": "/assets/sportsurge-icon.png",
     "footer_copyright": "© 2026 SportSurge — Your trusted destination for live HD streaming of major sports leagues, top teams, and international championships worldwide.",
     "footer_disclaimer": "",
     "target_country": "US",
     "url_suffix": "-streams",
-    "param_live": "livematch",
-    "param_info": "data"
+    "param_live": "livestream",
+    "param_info": "information"
   },
   "theme": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
