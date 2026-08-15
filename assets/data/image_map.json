@@ -14808,7 +14808,9 @@
         "Baltimore Ravens": "assets/logos/streamed/baltimore-ravens.webp",
         "Philadelphia Eagles": "assets/logos/streamed/philadelphia-eagles.webp",
         "USA Rugby": "assets/logos/streamed/usa-rugby.webp",
-        "Al-Faisaly": "assets/logos/streamed/al-faisaly.webp"
+        "Al-Faisaly": "assets/logos/streamed/al-faisaly.webp",
+        "Seattle Seahawks": "assets/logos/streamed/seattle-seahawks.webp",
+        "Dallas Cowboys": "assets/logos/streamed/dallas-cowboys.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
