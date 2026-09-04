@@ -14947,7 +14947,16 @@
         "UCF": "assets/logos/streamed/ucf.webp",
         "Arkansas-Pine Bluff": "assets/logos/streamed/arkansas-pine-bluff.webp",
         "Broncos": "assets/logos/streamed/broncos.webp",
-        "Manchester United WFC": "assets/logos/streamed/manchester-united-wfc.webp"
+        "Manchester United WFC": "assets/logos/streamed/manchester-united-wfc.webp",
+        "Long Island": "assets/logos/streamed/long-island.webp",
+        "Miami (FL)": "assets/logos/streamed/miami-fl.webp",
+        "Canada Rugby": "assets/logos/streamed/canada-rugby.webp",
+        "Mainz 05 W": "assets/logos/streamed/mainz-05-w.webp",
+        "Miami (OH)": "assets/logos/streamed/miami-oh.webp",
+        "Texas State": "assets/logos/streamed/texas-state.webp",
+        "VMI": "assets/logos/streamed/vmi.webp",
+        "Mississippi State": "assets/logos/streamed/mississippi-state.webp",
+        "Louisiana-Monroe": "assets/logos/streamed/louisiana-monroe.webp"
     },
     "leagues": {
         "Serie A": "assets/logos/leagues/serie-a.webp",
